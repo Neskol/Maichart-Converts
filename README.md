@@ -1,11 +1,12 @@
 # Maichart-Converts
 
 ## This repo stores converted charts
-> The original supporting classes are now separated from this repo. Please see [MaiLib](https://github.com/Neskol/MaiLib) for more information.
-> If you want to convert charts by yourself, please see [MaichartConverter](https://github.com/Neskol/MaichartConverter) for more information.
+- The original supporting classes are now separated from this repo. Please see [MaiLib](https://github.com/Neskol/MaiLib) for more information.
+- If you want to convert charts by yourself, please see [MaichartConverter](https://github.com/Neskol/MaichartConverter) for more information.
 
 ### BaiduNetdisk Hash
-> Following are hash codes for uploaded charts with/without BGA
+- Following are hash codes for uploaded charts with/without BGA
+- You may refer [here](https://sakura.myacgcat.top/07/%e3%80%90%e6%95%99%e7%a8%8b%e3%80%91%e5%85%b3%e4%ba%8e%e6%a0%87%e5%87%86%e6%8f%90%e5%8f%96%e7%a0%81%e7%9a%84%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95/) to learn how to use following codes: 
 {
 ad89417b53068d6960915d269a107e81#84297b171435e6d6ef5679a3138b9de3#7784214#/MaichartOutput/宴会场/无BGA/101_オチヤメキノウ_Utage.zip
 9a6b8805ffa529aa1cff0b8f9ac9844a#35a522601b144d968ac247694dfb964e#65140556#/MaichartOutput/宴会场/HEVC BGA/101_オチヤメキノウ_Utage.zip
