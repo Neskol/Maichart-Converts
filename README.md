@@ -7,7 +7,7 @@
 ### BaiduNetdisk Hash
 - Following are hash codes for uploaded charts with/without BGA
 - You may refer [here](https://sakura.myacgcat.top/07/%e3%80%90%e6%95%99%e7%a8%8b%e3%80%91%e5%85%b3%e4%ba%8e%e6%a0%87%e5%87%86%e6%8f%90%e5%8f%96%e7%a0%81%e7%9a%84%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95/) to learn how to use following codes: 
-{
+<pre><code>
 ad89417b53068d6960915d269a107e81#84297b171435e6d6ef5679a3138b9de3#7784214#/MaichartOutput/宴会场/无BGA/101_オチヤメキノウ_Utage.zip
 9a6b8805ffa529aa1cff0b8f9ac9844a#35a522601b144d968ac247694dfb964e#65140556#/MaichartOutput/宴会场/HEVC BGA/101_オチヤメキノウ_Utage.zip
 aa765cc3075f9638d6f201e5132b90fd#9b43587fc63785de75af17d02b0c226e#69561533#/MaichartOutput/宴会场/HEVC BGA/118_イヌヒヨリ_Utage.zip
@@ -1030,7 +1030,7 @@ b84bb018489f8fa0f2a5facd8f014560#857dffd6e376a45780a224bbf8418bd5#100000000#/Mai
 0be12fd71b52d8d3a82aa43937546ed7#452e47d7e34719e534ae6c439011a0fe#100000000#/MaichartOutput/普通谱面/苹果用HEVC BGA/東方Project.zip.034
 e64d3fa5b4a3bdea56869e247030aeba#68dd7354a9418e54fe8a4c45d78442c8#55008144#/MaichartOutput/普通谱面/安卓用H264 BGA/東方Project.zip.035
 97fa7b8fa3acfbfd1a47e83e50496ae9#d0d93da9947d4ef130aa2a62cfffae8a#55008144#/MaichartOutput/普通谱面/苹果用HEVC BGA/東方Project.zip.035
-}
+</pre></code>
 
 ### Disclamer
 - Copyrights of the works belong to each individual right holders. This tool is purely used as non-commercial and study purpose. You should find your way for any resource might be used and properly use at your own risk.
