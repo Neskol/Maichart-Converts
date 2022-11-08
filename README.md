@@ -1,6 +1,6 @@
 # Maichart-Converts
 
-## This repo stores converted charts
+## This repo stores converted charts of maimai
 - The original supporting classes are now separated from this repo. Please see [MaiLib](https://github.com/Neskol/MaiLib) for more information.
 - If you want to convert charts by yourself, please see [MaichartConverter](https://github.com/Neskol/MaichartConverter) for more information.
 
