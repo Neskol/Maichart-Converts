@@ -4,6 +4,10 @@
 - The original supporting classes are now separated from this repo. Please see [MaiLib](https://github.com/Neskol/MaiLib) for more information.
 - If you want to convert charts by yourself, please see [MaichartConverter](https://github.com/Neskol/MaichartConverter) for more information.
 
+### Mega netdisk link
+- If you don't know how to use BaiduNetdisk / have problem reading Chinese websites, you can try to use this [mega link](https://mega.nz/file/MWRFFCQC#l7yYk42qnNXokbXhZ0roQefKrjEXdP8cMgkM49bswXQ) instead.
+- Start up a issue in this repo to notify me if any of the links in this repo expires.
+
 ### BaiduNetdisk Hash
 - Following are hash codes for uploaded charts with/without BGA
 - You may refer [here](https://sakura.myacgcat.top/07/%e3%80%90%e6%95%99%e7%a8%8b%e3%80%91%e5%85%b3%e4%ba%8e%e6%a0%87%e5%87%86%e6%8f%90%e5%8f%96%e7%a0%81%e7%9a%84%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95/) to learn how to use following codes: 
