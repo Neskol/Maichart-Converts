@@ -141,7 +141,7 @@ b452cd443ede47e2267a0d6bfa941179#104857600#H264FestivalUpdate/Output_H264_1.30.z
 </code></pre>
 
 
-### BaiduNetdisk Hash
+### BaiduNetdisk Hash (Untill Festival Plus and Utage)
 - Following are hash codes for uploaded charts with/without BGA
 - You may refer [here](https://sakura.myacgcat.top/07/%e3%80%90%e6%95%99%e7%a8%8b%e3%80%91%e5%85%b3%e4%ba%8e%e6%a0%87%e5%87%86%e6%8f%90%e5%8f%96%e7%a0%81%e7%9a%84%e4%bd%bf%e7%94%a8%e6%96%b9%e6%b3%95/) to learn how to use following codes: 
 <pre><code>
