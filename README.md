@@ -5,7 +5,7 @@
 - If you want to convert charts by yourself, please see [MaichartConverter](https://github.com/Neskol/MaichartConverter) for more information.
 
 ### Mega netdisk link
-- If you don't know how to use BaiduNetdisk / have problem reading Chinese websites, you can try to use this [mega link](https://mega.nz/file/4bxRDQbZ#GcRR6u6_hT3J35WJmz1QsslbXjWtLHTVbsqm_auZFNU) instead.
+- If you don't know how to use BaiduNetdisk / have problem reading Chinese websites, you can try to use this [mega link](https://mega.nz/file/0HJTQJ6L#JsCLpKQOAi-Xq7azVi8O_qLDhcT1gvyiSWq83_4olr8) instead.
 - Start up a issue in this repo to notify me if any of the links in this repo expires.
 
 ### Baidu NetDisk Festival Update Hash
