@@ -6,21 +6,24 @@
 &genre=niconicoボーカロイド
 &cabinet=SD
 &version=maimai GreeN
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=5
 &des_2=-
 
-&lv_3=6
+&lv_3=7
 &des_3=-
 
 &lv_4=9+
 &des_4=はっぴー
 
-&lv_5=10+
+&lv_5=11
 &des_5=はっぴー
 
 &lv_6=
@@ -176,7 +179,6 @@ E
 {1},
 {1},
 {1},
-{1},
 E
 
 &inote_4=
@@ -226,11 +228,11 @@ E
 {4}7-2[2:1],6h[2:1],,,
 {4}8b,,3h[4:3]/7,1,
 {4}7,7,4h[4:1]/7,5,
-{4}1-4[4:1]/5,8b,,,
+{4}5/1-4[4:1],8b,,,
 {4}2h[4:1]/7,4,2/7h[4:1],5,
 {4}7/8,,3h[4:3]/7,1,
 {4}7,7,4h[4:1]/7,5,
-{4}1-4[4:1]/5,8b,,,
+{4}5/1-4[4:1],8b,,,
 {4}2h[4:1]/7,4,2/7h[4:1],5,
 {1}2h[2:1]/7h[2:1],
 {2}7,6,
@@ -249,7 +251,6 @@ E
 {4}4,2,4,2,
 {4}7h[4:1],2h[4:1],8h[4:1],1h[2:1],
 {4},8b,,8-5[1:1],
-{1},
 {1},
 {1},
 {1},
@@ -325,7 +326,6 @@ E
 {4}1-5[8:1],8-4[8:1],1<6[8:1],,
 {16}5h[16:3],,,6,,,5,,3h[16:3],,,4,,,1,,
 {4}8-4[8:1],1-5[8:1],8>3[8:1],4-1[1:1],
-{1},
 {1},
 {1},
 {1},

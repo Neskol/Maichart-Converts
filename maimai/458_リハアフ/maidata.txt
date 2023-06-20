@@ -6,15 +6,18 @@
 &genre=maimai
 &cabinet=SD
 &version=maimai PiNK
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=3
 &des_2=-
 
-&lv_3=6
+&lv_3=7
 &des_3=-
 
 &lv_4=9+
@@ -302,8 +305,7 @@ E
 {4}1-4[8:1]*-6[8:1],1,8-3[8:1]*-5[8:1],8,
 {1}1pp4[2:1]/8qq5[2:1],
 {8}1/5,2/6,3/7,4/8,1/5,4/8,3/7,2/6,
-{1}1bw5[4:7]/5,
-{1},
+{1}5/1bw5[4:7],
 {1},
 {1},
 {1},

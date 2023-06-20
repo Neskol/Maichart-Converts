@@ -6,8 +6,11 @@
 &genre=niconicoボーカロイド
 &cabinet=SD
 &version=maimai ORANGE
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 

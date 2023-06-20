@@ -6,15 +6,18 @@
 &genre=ゲームバラエティ
 &cabinet=SD
 &version=maimai GreeN PLUS
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=4
 &des_2=-
 
-&lv_3=7+
+&lv_3=8
 &des_3=-
 
 &lv_4=10+
@@ -173,7 +176,6 @@ E
 {1},
 {1},
 {1},
-{1},
 E
 
 &inote_4=
@@ -247,8 +249,6 @@ E
 {1},
 {1},
 {1},
-{1},
-{1},
 E
 
 &inote_5=
@@ -319,8 +319,6 @@ E
 {1},
 {24},,,,,,,,,,,,,,,,,,4,5,4,3,4,5,
 {12}6,5,4,3<6[4:11],,,,,,,,,
-{1},
-{1},
 {1},
 {1},
 {1},

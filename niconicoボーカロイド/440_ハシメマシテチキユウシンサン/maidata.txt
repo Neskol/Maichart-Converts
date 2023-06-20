@@ -6,21 +6,24 @@
 &genre=niconicoボーカロイド
 &cabinet=SD
 &version=maimai ORANGE PLUS
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=5
 &des_2=-
 
-&lv_3=6
+&lv_3=7
 &des_3=-
 
 &lv_4=10
 &des_4=はっぴー
 
-&lv_5=12+
+&lv_5=13
 &des_5=某S氏
 
 &lv_6=
@@ -174,7 +177,6 @@ E
 {1},
 {1},
 {1},
-{1},
 E
 
 &inote_4=
@@ -201,7 +203,7 @@ E
 {8},7/8,,7/8,,,4/5,,
 {4}7,5/6,2,3/4,
 {4}1,5/6,8,3/4,
-{4}6,7/8,3,1<5[2:1]/2,
+{4}6,7/8,3,2/1<5[2:1],
 {4},,,4/5,
 {4}3/4,2,5/6,7,
 {4}3/4,4/5,5/6,4/5,
@@ -220,7 +222,7 @@ E
 {4}1-6[8:1]/2-5[8:1],,1/8,3/6,
 {4}7-4[8:1]/8-3[8:1],,1/8,3/6,
 {4}1-6[8:1]/2-5[8:1],,1/8,4/5,
-{2}2b/7b,2>5[8:1]/5,
+{2}2b/7b,5/2>5[8:1],
 {4}7h[4:1],8,1/6,,
 {8}2h[4:1],,1,,3/8,,,6,
 {8}5,4/7,,3,4,2/5,,1/8,

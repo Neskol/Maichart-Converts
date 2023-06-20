@@ -6,15 +6,18 @@
 &genre=東方Project
 &cabinet=SD
 &version=maimai GreeN
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=5
 &des_2=-
 
-&lv_3=6
+&lv_3=7
 &des_3=-
 
 &lv_4=10+
@@ -274,7 +277,7 @@ E
 {4}1h[4:1]/2,2,7/8h[4:1],7,
 {4}1h[4:1]/2,2,7/8h[4:1],7,
 {4}1/2,7/8,3/4,5/6,
-{4}1/2-5[8:1],1,7-4[8:1]/8,8,
+{4}1/2-5[8:1],1,8/7-4[8:1],8,
 {4}4/5h[4:3],4,4,4,
 {4}4/6h[4:1],4,4/7h[4:1],4,
 {8}4/8h[4:1],,4,,1h[4:1]/4,,4,1<6[8:5],

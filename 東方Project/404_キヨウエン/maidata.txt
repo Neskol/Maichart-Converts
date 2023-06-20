@@ -6,8 +6,11 @@
 &genre=東方Project
 &cabinet=SD
 &version=maimai ORANGE PLUS
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
@@ -20,7 +23,7 @@
 &lv_4=9+
 &des_4=某S氏
 
-&lv_5=13
+&lv_5=12+
 &des_5=はっぴー
 
 &lv_6=
@@ -345,11 +348,11 @@ E
 {8}2q6[8:1],1,8,,7p3[8:1],8,1,,
 {8}2/5,,5/6,4/7,,3/4,2/5,,
 {8}3/6,4,5,,2b/7b,,,,
-{4}3>4[2:3]/4,4,4,4,
+{4}4/3>4[2:3],4,4,4,
 {4}3,3,3,3,
 {4}5/6<5[2:3],5,5,5,
 {4}6,6,6,6,
-{4}3>4[2:3]/4,4,4,4,
+{4}4/3>4[2:3],4,4,4,
 {4}3,3,3,3,
 {4}5/6<4[1:1],5,5,5,
 {8}6,,6,,5b,7b,1b,3b,

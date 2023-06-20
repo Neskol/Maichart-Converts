@@ -6,15 +6,18 @@
 &genre=ゲームバラエティ
 &cabinet=SD
 &version=maimai ORANGE PLUS
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=5
 &des_2=-
 
-&lv_3=6
+&lv_3=7
 &des_3=-
 
 &lv_4=10+
@@ -244,14 +247,14 @@ E
 {8}7,8,1/6,,4,5,3/6,,
 {8}8,1,7,2,6,3,4/5,,
 {8}6,4,8,2-6[8:1],,,7b,,
-{4}2/8,3/7,4q1[8:3]/6,,
+{4}2/8,3/7,6/4q1[8:3],,
 {4},2,1,4/8,
 {4}1/7,2/6,3/5p8[8:3],,
 {4},7,8,1/5,
 {8}3h[8:3],,4,4,,1,2/8,,
 {8}6h[8:3],,5,5,,8,1/7,,
 {8}4h[8:3],,5,5,,1/8,2/7,,
-{4}1/2-5[8:1],6,7-4[8:1]/8,3,
+{4}1/2-5[8:1],6,8/7-4[8:1],3,
 {8}2,4,5,7,1-5[8:1],,8b,,
 {8}7-3[8:1],,1,,2,1,3/8,,
 {8}2-6[8:1],,8,,7,8,1/6,,
@@ -339,7 +342,7 @@ E
 {8}6<1[8:1],,3,3<6[8:1],,1,8,7,
 {8}6>3[8:1],,1,1<6[8:1],,2,3,4,
 {16}8b,,4b,,6b,,2b,,,,8,1,8,,,,
-{8}1<4[4:1]/7,,3,2,1,8,1/7>4[4:1],,
+{8}7/1<4[4:1],,3,2,1,8,1/7>4[4:1],,
 {8},5,6,7,8,1,2,3,
 {8}4/6,7,8,1/5,,3/7,,2>5[4:1]/6<1[4:1],
 {8},,,,,3,4,5,

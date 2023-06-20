@@ -6,15 +6,18 @@
 &genre=maimai
 &cabinet=SD
 &version=maimai
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=5
 &des_2=-
 
-&lv_3=6
+&lv_3=7
 &des_3=-
 
 &lv_4=10
@@ -251,7 +254,7 @@ E
 {16}8,,,7,,,5h[16:5],,,,,,3,,,,
 {8}2/4,,3/5,,1/7,8,6,,
 {16}1,,,2,,,4h[16:5],,,,,,6,,5/7,,
-{1}4<7[2:1]/8b,
+{1}8b/4<7[2:1],
 {12}2,3,4,5,6,7,2/6,,,3/7b,,,
 {4}1/2,5/6,7/8,3/4,
 {4}1/7,3/5,2/8,4/6,

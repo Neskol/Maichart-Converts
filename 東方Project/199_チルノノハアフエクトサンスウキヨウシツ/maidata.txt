@@ -6,15 +6,18 @@
 &genre=東方Project
 &cabinet=SD
 &version=maimai GreeN
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=3
 &des_2=-
 
-&lv_3=6
+&lv_3=7
 &des_3=-
 
 &lv_4=10
@@ -204,9 +207,9 @@ E
 {8}4h[8:3],,,,,4,,,
 {8}5h[8:3],,,,,5,,,
 {8}6h[8:3],,,,,6,,,
-{1}2-5[4:1]/7,
+{1}7/2-5[4:1],
 {1}2/7-4[4:1],
-{1}2-5[4:1]/7,
+{1}7/2-5[4:1],
 {1}2/7-4[4:1],
 {1}2-5[4:1],
 {1}7-2[4:1],
@@ -250,7 +253,7 @@ E
 {4}1/7,5,2/8,4,
 {4}1/7,5,2/8,4,
 {16}4/7,,,4,,,2/5,,,5,,,3/6,,,,
-{4}4-1[8:1]/5,,,1b,
+{4}5/4-1[8:1],,,1b,
 {2}7h[2:1],5,
 {2}2h[2:1],4,
 {2}1h[4:3],8h[4:1],
@@ -306,7 +309,7 @@ E
 {4}1h[4:1]/7,5,2/8h[4:1],4,
 {4}1h[4:1]/7,5,2/8h[4:1],4,
 {16}4/7,,,4,,,2/5,,,5,,,3/6,,,,
-{4}4-1[8:1]/5,,,1b,
+{4}5/4-1[8:1],,,1b,
 {1},
 {1},
 {1},

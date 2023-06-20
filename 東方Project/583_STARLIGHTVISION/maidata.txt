@@ -6,15 +6,18 @@
 &genre=東方Project
 &cabinet=SD
 &version=maimai MURASAKi
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=3
 &des_2=-
 
-&lv_3=7
+&lv_3=7+
 &des_3=-
 
 &lv_4=11
@@ -248,7 +251,7 @@ E
 {8}4,,5,3,,4,2,,
 {8}6/8,,6/8,,2,4,,3,
 {8}5,,4,6,,5,7,,
-{1}1pp5[2:1]/8,
+{1}8/1pp5[2:1],
 {8}6h[8:3],,,7h[8:3],,,8,,
 {1}1/8qq4[2:1],
 {8}3h[8:3],,,2h[8:3],,,1,,
@@ -281,7 +284,7 @@ E
 {8}7/8,,4,5,3,6,3,6,
 {8}2,7,2,7,1b/8b,,,,
 {8}7/8,,2b/4,,6,5b,6,,
-{1}1bpp4[2:1]/8h[4:3],
+{1}8h[4:3]/1bpp4[2:1],
 {8}5/6,,1/7,,3,4,3,,
 {1}5q2[8:3]/6<1[8:3],
 {8}3/4,,6b/8,,2,1b,2,,
@@ -306,7 +309,7 @@ E
 {1}5V31[8:3]/6v8[8:3],
 {8}2/7-3[4:3],,8b,,,1b,,,
 {4}2b,,5/6,3/4,
-{8}2-6[4:3]/7,,1,,,8,,,
+{8}7/2-6[4:3],,1,,,8,,,
 {4}7,,3/4,5/6,
 {8}2,1,3b,8,4,7b,5,6,
 {8}3b,4,2,5,1,6,8,7,

@@ -6,21 +6,24 @@
 &genre=maimai
 &cabinet=SD
 &version=maimai ORANGE
-&chartconverter=Neskol
-&chartconverttool=MaichartConverter&chartconverttoolversion=1.0.3.0&smsg=See https://github.com/Neskol/MaichartConverter for updates
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.5.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
 &lv_1=
 &des_1=
 
 &lv_2=5
 &des_2=-
 
-&lv_3=6
+&lv_3=7
 &des_3=-
 
 &lv_4=11
 &des_4=Jack
 
-&lv_5=13
+&lv_5=13+
 &des_5=Revo@LC
 
 &lv_6=
@@ -345,10 +348,10 @@ E
 {8},1/6,,3/8,,1/6,3/8,,
 {16}2b,1,2b,1,3b,8,3b,8,4b,7,4b,7,5b,6,5b,6,
 {8},3/6,,2/7,,3/6,1/8,,
-{4}1b/2-5[8:1],1b/2,7-4[8:1]/8b,7/8b,
-{4}1b/2-5[8:1],1b/2,7-4[8:1]/8b,7/8b,
-{8}1b/2-5[8:1],1b,1b/2,,7-4[8:1]/8b,8b,7/8b,,
-{8}1b/2-5[8:1],1b,1b/2b,,7-4[8:1]/8b,8b,7b/8b,,
+{4}1b/2-5[8:1],1b/2,8b/7-4[8:1],7/8b,
+{4}1b/2-5[8:1],1b/2,8b/7-4[8:1],7/8b,
+{8}1b/2-5[8:1],1b,1b/2,,8b/7-4[8:1],8b,7/8b,,
+{8}1b/2-5[8:1],1b,1b/2b,,8b/7-4[8:1],8b,7b/8b,,
 {1}5-8[4:1]/8>5[4:1],
 {1},
 {1},
