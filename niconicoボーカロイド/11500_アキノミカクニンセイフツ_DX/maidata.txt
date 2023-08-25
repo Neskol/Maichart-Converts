@@ -1,6 +1,6 @@
 &title=秋の未確認生物[DX]
 &wholebpm=185
-&artist=子牛
+&artist=子牛 feat.音街ウナ
 &des=はっぴー
 &shortid=11500
 &genre=niconicoボーカロイド

@@ -23,7 +23,7 @@
 &lv_4=10+
 &des_4=Techno Kitchen
 
-&lv_5=13
+&lv_5=13+
 &des_5=合作だよ
 
 &lv_6=

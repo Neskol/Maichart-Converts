@@ -23,7 +23,7 @@
 &lv_4=11+
 &des_4=Starlight Disco Festa
 
-&lv_5=13
+&lv_5=12+
 &des_5=Starlight Disco Festa
 
 &lv_6=
