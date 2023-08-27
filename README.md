@@ -4,6 +4,9 @@
 - The original supporting classes are now separated from this repo. Please see [MaiLib](https://github.com/Neskol/MaiLib) for more information.
 - If you want to convert charts by yourself, please see [MaichartConverter](https://github.com/Neskol/MaichartConverter) for more information.
 
+### GITHUB RELEASE (RECOMMENDED)
+- Check for most recent [RELEASE](https://github.com/Neskol/Maichart-Converts/releases) for downloads.
+
 ### BAIDU NETDISK LINK is no longer provided!
 - The future releases will not come with baidu netdisk for the difficulty of maintainance. Check for the Releases or use iCloud for updates.
 
@@ -11,7 +14,8 @@
 - To be completed once uploaded... 
 
 ### Mega netdisk link
-- [Mega Link](https://mega.nz/file/0HJTQJ6L#JsCLpKQOAi-Xq7azVi8O_qLDhcT1gvyiSWq83_4olr8) instead.
+- [Mega Link: (NoBGA)](https://mega.nz/file/gSwjxTKB#hegJPIf-LewajNjVaEAw1qeNXxYbjVOQ79pf29eXxzk)
+- [Mega Link: (Utage_NoBGA)](https://mega.nz/file/8ep3AJQB#QYpbWGSjbfOA17-xbxLb-AkrQkaqa1pnUokmbK_0b6E)
 - Start up a issue in this repo to notify me if any of the links in this repo expires.
 
 ### Disclamer
