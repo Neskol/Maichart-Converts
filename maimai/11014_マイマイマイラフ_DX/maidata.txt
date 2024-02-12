@@ -8,7 +8,7 @@
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -121,7 +121,7 @@ E
 
 &inote_3=
 (131){1},
-{1}8xh[384:1687],
+{1}8xh[1:5],
 {1},
 (140){2},(170),
 {1},
@@ -210,7 +210,7 @@ E
 
 &inote_4=
 (131){1},
-{1}3h[384:1391]/5h[384:1391],
+{1}3h[1:4]/5h[1:4],
 {1},
 (140){2},(170),
 {1},
@@ -299,7 +299,7 @@ E
 
 &inote_5=
 (131){1},
-{1}3h[96:283]/5h[128:433],
+{1}3h[8:25]/5h[16:59],
 {1},
 (140){2},(170),
 {1},

@@ -8,7 +8,7 @@
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -105,7 +105,6 @@
 {1}2/7,
 {1},
 {1},
-{1},
 E
 
 &inote_3=
@@ -181,7 +180,6 @@ E
 {4}1h[8:3]/8h[8:3],,,1/8,
 {4}2h[8:3]/7h[8:3],,,2/7,
 {1}2b/7b,
-{1},
 {1},
 {1},
 E

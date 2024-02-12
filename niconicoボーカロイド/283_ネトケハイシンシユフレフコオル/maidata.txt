@@ -8,7 +8,7 @@
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -245,7 +245,6 @@ E
 {1}4bqq1[2:3]/5bpp8[2:3],
 {1},
 {1},
-{1},
 E
 
 &inote_4=
@@ -352,7 +351,6 @@ E
 {8},1/8,1/8,,4/5,,6/7,6/7,
 {8},2/3,2/3,,2/5,,4/7,,
 {1}1b>8[4:7]/8b<1[4:7],
-{1},
 {1},
 {1},
 E
@@ -463,7 +461,6 @@ E
 {1}4/5b-1[1:1],
 {16}4,,4,,4,,4,,5,5,5,,2b/8b,,,,
 {1}4/6,
-{1},
 {1},
 {1},
 E

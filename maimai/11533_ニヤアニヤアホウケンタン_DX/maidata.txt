@@ -8,7 +8,7 @@
 &version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -390,7 +390,7 @@ E
 {8}3,3,4,2,7,7,1b,,
 {8}7/8,7/8,7/8,,5/6,5/6,5/6,,
 {8}3/4,3/4,3/4,,1/2,1/2,1/2,,
-{4}3/8,3bh[4:3]/8b-5[2:1]-2[2:1]-6[384:191],,,
+{4}3/8,3bh[4:3]/8b-5[2:1]-2[2:1]-6[2:1],,,
 {1},
 {1},
 {1}4h[1:2],
@@ -420,7 +420,6 @@ E
 {8}5bx/6bx,4bx/7bx,,1bx/8bx,1bxpp4b[8:7]/8bxqq5b[8:7],,,,
 {1},
 {1}C1f/B2/B3/B4/E4/B5/B6/E6/B7,
-{1},
 {1},
 {1},
 E
@@ -553,7 +552,6 @@ E
 {8}6b/8b,6b/8b,,2b/7b,2bxqq1b[8:1]>4[4:3]/7bxpp8b[8:1]<5[4:3],,,,
 {16},,,,,,,,,,,,3,5,4,6,
 {1}B1/C1f/B8,
-{1},
 {1},
 {1},
 E

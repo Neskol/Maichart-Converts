@@ -8,7 +8,7 @@
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -152,7 +152,6 @@
 {1}4b/5b,
 {1},
 {1},
-{1},
 E
 
 &inote_3=
@@ -275,7 +274,6 @@ E
 {8}4,4,4,,5,5,5,,
 {1}4>1[2:1]/5<8[2:1],
 {1}C1,
-{1},
 {1},
 {1},
 E
@@ -524,7 +522,6 @@ E
 {16}4x/5x,,,,3,6,4,5,3,6,4,5,3,6,4,5,
 {16}3h[16:3],,,E3/E4,,,6h[16:3],,,E6/E7,,,2x-5[16:1]/7x-4[16:1],,,,
 {1}C1/B4/B5/E5,
-{1},
 {1},
 {1},
 E

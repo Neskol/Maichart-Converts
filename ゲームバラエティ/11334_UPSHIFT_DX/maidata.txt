@@ -8,7 +8,7 @@
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -217,7 +217,6 @@ E
 {2}7h[2:1],8,
 {2}2h[2:1],1,
 {1}7z3[8:5],
-{1},
 {1},
 {1},
 E

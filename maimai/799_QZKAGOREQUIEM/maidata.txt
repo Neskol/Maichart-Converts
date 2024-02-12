@@ -8,7 +8,7 @@
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -179,7 +179,6 @@
 {1}8b,
 {1},
 {1},
-{1},
 E
 
 &inote_3=
@@ -329,7 +328,6 @@ E
 (290.001){1}2h[2:3]/7h[1:1],
 {1},
 {1}2b/7b,
-{1},
 {1},
 {1},
 E
@@ -484,7 +482,6 @@ E
 {1},
 {1},
 {1}4b,
-{1},
 {1},
 {1},
 E
@@ -790,7 +787,6 @@ E
 (290.001){32}5,,6,,5,,6,,5,,6,,5,,6,,5,,6,,5,,6,,4b,3,2,1,8,7,6,5,
 {32}4b,3,2,1,8,7,6,5,4b,,,,8b,,,,3b,,,,7b,,,,2b,,,,6b,,,,
 {1}1bw5[2.4828##0.2069],
-{1},
 {1},
 {1},
 E

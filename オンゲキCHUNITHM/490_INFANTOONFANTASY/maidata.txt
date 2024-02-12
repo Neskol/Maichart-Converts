@@ -8,7 +8,7 @@
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -144,7 +144,6 @@
 {1}2b/7b,
 {1},
 {1},
-{1},
 E
 
 &inote_3=
@@ -259,7 +258,6 @@ E
 {4}1/2,3/8,4/7,5/6,
 {1}1b-4[4:1]/8b-5[4:1],
 {1}2b/7b,
-{1},
 {1},
 {1},
 E
@@ -378,7 +376,6 @@ E
 {1}2b/7b,
 {1},
 {1},
-{1},
 E
 
 &inote_5=
@@ -493,7 +490,6 @@ E
 {16}5,4,6,3,7,2,8,1,8w4[8:1],,,,8b,,,,
 {32}1,,,,8,,,,,,,,8h[8:3],,,,,,,,,,,,1,2,3,4,5,6,7,8,
 {1}1bw5[4:3],
-{1},
 {1},
 {1},
 E

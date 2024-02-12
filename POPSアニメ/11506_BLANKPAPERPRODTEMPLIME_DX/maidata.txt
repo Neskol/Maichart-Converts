@@ -8,7 +8,7 @@
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -188,7 +188,6 @@ E
 {4}6,6,7,7,
 {4}1/8,1/8,1/8,,
 {1}C1f,
-{1},
 {1},
 {1},
 E

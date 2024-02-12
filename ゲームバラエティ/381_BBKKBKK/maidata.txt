@@ -8,7 +8,7 @@
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -121,7 +121,6 @@
 {4}1,8,2,7,
 {1}1h[4:3]/8h[4:3],
 {1}2b/7b,
-{1},
 {1},
 {1},
 E
@@ -314,7 +313,6 @@ E
 {1}1b,
 {1},
 {1},
-{1},
 E
 
 &inote_5=
@@ -408,7 +406,6 @@ E
 {16}1,5,3,7,2,6,4,8,1,5,3,7,2/6,3/7,4/8,1/5,
 {4}2b/6b,,2-6[8:1],2b/7-3[16:1],
 {1}7b,
-{1},
 {1},
 {1},
 E

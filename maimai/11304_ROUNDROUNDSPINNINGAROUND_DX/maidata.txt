@@ -8,7 +8,7 @@
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -124,7 +124,6 @@
 {1}1-4[4:3]/8-5[4:3],
 {1},
 {1}C1f,
-{1},
 {1},
 {1},
 E
@@ -325,7 +324,6 @@ E
 {1}7b,
 {1},
 {1},
-{1},
 E
 
 &inote_5=
@@ -422,7 +420,6 @@ E
 {8}1xh[4:7],,B3,,B6,,B2/E2,B7/E8,
 {8},C1,,B3,B4,B5,B6,,
 {1}C1f/8b<1[4:7]*>7[4:7],
-{1},
 {1},
 {1},
 E

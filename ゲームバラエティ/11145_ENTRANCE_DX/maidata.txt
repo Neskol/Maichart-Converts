@@ -8,7 +8,7 @@
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -188,7 +188,6 @@ E
 {1}2bV41[8:13]/7bV58[8:13],
 {1},
 {1},
-{1},
 E
 
 &inote_4=
@@ -269,7 +268,6 @@ E
 {1}1b,
 {1},
 {1},
-{1},
 E
 
 &inote_5=
@@ -348,7 +346,6 @@ E
 {12}7b,5,6,2b,4,3,8b,6,7,1b,3,2,
 {96}8b,,,,7,,,,6,,,,1b,,,,2,,,,3,,,,7b,,,,6,,,,5,,,,2b,,,,3,,,,4,,,,8b,,,7,,,6,,,5,,,4,,,3,,,2,,,1,,,8b,,,7,,,6,,,5,,,4,,,3,,,2,,,1,,,
 {1}C1f/8b<1[4:7],
-{1},
 {1},
 {1},
 E

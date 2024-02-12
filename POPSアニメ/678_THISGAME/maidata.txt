@@ -8,7 +8,7 @@
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -88,7 +88,6 @@
 {1}1b/8b,
 {1},
 {1},
-{1},
 E
 
 &inote_3=
@@ -147,7 +146,6 @@ E
 {1},
 {1},
 {1}1b/8b,
-{1},
 {1},
 {1},
 E
@@ -210,7 +208,6 @@ E
 {1}8b,
 {1},
 {1},
-{1},
 E
 
 &inote_5=
@@ -269,7 +266,6 @@ E
 {16}1b/5b,,,3b/4b,,,4b/8b,,,5b/6b,,,2b/6b,,,,
 {32}4bqq1[16:7]/8bqq5[16:7],,,,,,,,,,,,,,,,,,,,,,,,,,,,1/5,2/6,3/7,4/8,
 {1}1b/5b,
-{1},
 {1},
 {1},
 E

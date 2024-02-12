@@ -8,7 +8,7 @@
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -68,7 +68,6 @@
 {1}6-3[4:1],
 {1}4-1[4:1],
 {1}8b,
-{1},
 {1},
 {1},
 E
@@ -153,7 +152,6 @@ E
 {24},,,8h[8:7],,,,,,,,,2b,,,,6b,,,,3b,,,,
 {1}5-8[2:1],
 {1}1>4[4:3]/8<5[4:3],
-{1},
 {1},
 {1},
 E

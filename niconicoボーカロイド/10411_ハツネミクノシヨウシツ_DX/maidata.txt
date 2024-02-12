@@ -8,7 +8,7 @@
 &version=maimai DX BUDDiES
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -162,7 +162,6 @@
 {4}4,4,3,3,
 {4}2,2,1/8,,
 {1}2b/7b,
-{1},
 {1},
 {1},
 E
@@ -439,7 +438,6 @@ E
 {8}2,2,2,2,2x/4x,2x/4x,2x/4x,,
 {8}6/8,6/8,6/8,6/8,6x/8x,6x/8x,6x/8x,,
 {1}1bxV35b[2:5]v2[4:7]/5bxV71[2:5]v6[4:7],
-{1},
 {1},
 {1},
 E

@@ -8,7 +8,7 @@
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -132,7 +132,6 @@ E
 {1}2>5[4:1],
 {1},
 {1},
-{1},
 E
 
 &inote_4=
@@ -183,7 +182,6 @@ E
 {8},,,8,7,6,5,4h[2:1],
 {8},5,6,7h[2:1],,6,4,2,
 {1}1-4[8:1],
-{1},
 {1},
 {1},
 E

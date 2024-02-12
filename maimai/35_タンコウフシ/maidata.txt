@@ -8,7 +8,7 @@
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.6.1
+&ChartConvertToolVersion=1.0.7.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -80,7 +80,6 @@
 {1}3/7,
 {1},
 {1},
-{1},
 E
 
 &inote_3=
@@ -131,7 +130,6 @@ E
 {2}7/8,1/8,
 {2}3/6,2/6,
 {1}3/7,
-{1},
 {1},
 {1},
 E
