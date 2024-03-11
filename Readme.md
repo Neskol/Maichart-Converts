@@ -9,7 +9,7 @@
 
 ### FAQ
 - Q: When would you update charts?
-> A: as far as I obtain files from other public places including bbs, dm, etc., but I will not put them right away if I consider it was too new to put it here (`n-0`, which I never had a chance to get any).
+> A: As soon as I obtain files from other public places including bbs, dm, etc., but I will not put them right away if I consider it was too new to put it here (`n-0`, which I never had a chance to get any). However, if you already got files that is not yet uploaded here, you can dm me to request a converted copy.
 
 - Q: Links expired!
 > A: Naturally GitHub links wouldn't expire. If `mega` links expired, start a issue here and I will reupload as soon as possible.
@@ -21,5 +21,5 @@
 > A: I do have converts with BGA, but that copy is pretty large - 20GB+, which exceeds most platforms' free plans. Please consider using `MaichartConverter` to intergrate videos if you already have them.
 
 ### Disclamer
-- I do not own the copyright of any original files which the releases of this repo are used. The copyright of charts, music, video and cover pictures belongs to their original copyright holders, and any resource of this repo has provided is subjected to be deleted if a COAM strike has taken. However, based on the principle of researching and learning, any downloaders agree to use resources provided here in research only, and any commercial usage of this strictly prohibited.
+- I do not own the copyright of any original files which the releases of this repo are used. The copyright of charts, music, video and cover pictures belongs to their original copyright holders, and any resource of this repo has provided is subjected to be deleted if a DCMA strike has taken. However, based on the principle of researching and learning, downloading files here is permitted if you agree to use resources provided here for researching only, and any commercial usage of this repo strictly prohibited.
 - You are free to reupload any of the files I provided here to other platforms EXCEPT any places that may irretate corresponding copyright holders. I am much appreciated if you upload and cite this repo whenever possible, but it's okay if you forget to do so. The whole purpose of this repo is to make more people enjoy and make progress.
