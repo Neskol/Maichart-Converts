@@ -4,7 +4,7 @@
 - This repo provides a hub for those seeking for charts as a byproduct while developing [`MaichartConverter`](https://github.com/Neskol/MaichartConverter), which converts charts between different formats
 
 ### How to use?
-- Navigate to [Release]() section and download the latest release. Unpack and transfer them in a handy place so your chart player can find them
+- Navigate to [Release](https://github.com/Neskol/Maichart-Converts/releases) section and download the latest release. Unpack and transfer them in a handy place so your chart player can find them
 > You may reach out for someone else who knows more for each chart player for how to import charts
 
 ### FAQ
