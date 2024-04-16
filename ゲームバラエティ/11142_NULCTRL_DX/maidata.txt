@@ -1,14 +1,16 @@
 &title=NULCTRL[DX]
 &wholebpm=100
 &artist=Silentroom
+&artistid=570
 &des=譜面-100号とはっぴー
 &shortid=11142
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

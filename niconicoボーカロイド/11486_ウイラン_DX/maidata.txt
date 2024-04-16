@@ -1,14 +1,16 @@
 &title=ヴィラン[DX]
 &wholebpm=102
 &artist=flower・てにをは
+&artistid=817
 &des=緑風 犬三郎
 &shortid=11486
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

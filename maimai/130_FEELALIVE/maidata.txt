@@ -1,14 +1,16 @@
 &title=FEEL ALIVE[SD]
 &wholebpm=162
 &artist=ELEMENTAS feat. NAGISA
+&artistid=69
 &des=mai-Star
 &shortid=130
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

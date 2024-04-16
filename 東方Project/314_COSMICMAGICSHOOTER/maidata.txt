@@ -1,14 +1,16 @@
 &title=Cosmic Magic Shooter[SD]
 &wholebpm=163
 &artist=SOUND HOLIC feat. Nana Takahashi
+&artistid=203
 &des=mai-Star
 &shortid=314
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

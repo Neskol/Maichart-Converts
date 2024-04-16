@@ -1,14 +1,16 @@
 &title=Magical Sound Shower[SD]
 &wholebpm=120
 &artist=HIRO/曲者P
+&artistid=446
 &des=はっぴー
 &shortid=804
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

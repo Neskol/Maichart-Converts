@@ -1,14 +1,16 @@
 &title=最終鬼畜妹・一部声[SD]
 &wholebpm=200
 &artist=ビートまりお
+&artistid=307
 &des=rioN
 &shortid=439
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

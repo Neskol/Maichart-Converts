@@ -1,14 +1,16 @@
 &title=ビックカメラのテーマソング[DX]
 &wholebpm=160
 &artist=ビックカメラ
+&artistid=668
 &des=ぴちネコ
 &shortid=11257
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -359,7 +361,7 @@ E
 {6}6-3[8:1]/7-2[8:1],6/7,,1b/4b,,,
 {12}1xh[6:1]/8xh[6:1],,,1x/8x,,1/8,2x/7x,,2/7,3x/6x,,3/6,
 {64}4x-1[64:5]/5x-8[64:5],,,,,,,,,,,,,,,,4x/5x,E4/E6,B3/B6,B2/B7,E2/E8,,,,,,,,,,,,1b/8b,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-(159){12}3xh[4:1]/6xh[4:1],,,,,1/2,1xh[6:1]/2xh[6:1],,,(159)7x/8x-5[6:1]*pp8[6:1],,,
+(159){12}3xh[4:1]/6xh[4:1],,,,,1/2,1xh[6:1]/2xh[6:1],,,(159)7x/8x-5[0.3774##0.2469]*pp8[0.3774##0.2469],,,
 (162){4}8x,,(154)B1/B3/B4/B5/B6/B7/B8,(150),
 (160){12}8/1bpp1[6:1],,,,,,7b,,5b,8b-6[12:1],,,
 {4}8x/1-5[12:1],1x/2-4[12:1],2b,,

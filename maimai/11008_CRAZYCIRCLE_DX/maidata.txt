@@ -1,14 +1,16 @@
 &title=Crazy Circle[DX]
 &wholebpm=145
 &artist=みきとP feat. FantasticYouth
+&artistid=475
 &des=Jack
 &shortid=11008
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

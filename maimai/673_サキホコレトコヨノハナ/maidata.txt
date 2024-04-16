@@ -1,14 +1,16 @@
 &title=咲キ誇レ常世ノ華[SD]
 &wholebpm=170
 &artist=Sou×マチゲリータ
+&artistid=202
 &des=ぴちネコ
 &shortid=673
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -46,7 +48,7 @@
 {1}6,
 {1}7,
 {1}8,
-(158.85){4}1h[1:1],(136.7),(114.66),(92.62),
+(158.85){4}1h[384:505],(136.7),(114.66),(92.62),
 (210){1},
 {1},
 {2}8,8,
@@ -161,7 +163,7 @@ E
 {1}2h[1:1],
 {1}3h[1:1],
 {2}4,4,
-{1}4qq1[4:5]/5pp8[4:5],
+{1}4qq1[0.3529##1.8755]/5pp8[0.3529##1.8755],
 (158.85){4},(136.7),(114.66),(92.62),
 (210){4}1/8,1/8,1/8,1/8,
 {4}2/7,2/7,2/7,,
@@ -278,7 +280,7 @@ E
 {2}8h[1:1],6,
 {2}1h[1:1],8,
 {2}3,3,
-{2}3,3>6[1:1],
+{2}3,3>6[0.3529##1.6929],
 (158.85){4},(136.7),(114.66),(92.62),
 (210){4}4/5,4/5,3/5,3/5,
 {4}4/6,4/6,2/5,2/5,

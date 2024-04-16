@@ -1,14 +1,16 @@
 &title=1/3の純情な感情[SD]
 &wholebpm=152
 &artist=SIAM SHADE [covered by 湯毛]
+&artistid=197
 &des=mai-Star
 &shortid=356
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

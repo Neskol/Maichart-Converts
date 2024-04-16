@@ -1,14 +1,16 @@
 &title=Magical Flavor[SD]
 &wholebpm=98
 &artist=DECO*27 feat.Tia
+&artistid=59
 &des=はっぴー
 &shortid=674
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

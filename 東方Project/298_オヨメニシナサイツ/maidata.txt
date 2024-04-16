@@ -1,14 +1,16 @@
 &title=お嫁にしなさいっ！[SD]
 &wholebpm=180
 &artist=ARM＋夕野ヨシミ(IOSYS)
+&artistid=27
 &des=はっぴー
 &shortid=298
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

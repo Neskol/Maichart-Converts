@@ -1,14 +1,16 @@
 &title=なだめスかし Negotiation（TVsize）[DX]
 &wholebpm=150
 &artist=鹿乃と宇崎ちゃん
+&artistid=734
 &des=アマリリス
 &shortid=11356
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

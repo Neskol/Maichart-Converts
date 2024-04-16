@@ -1,14 +1,16 @@
 &title=コンティニュー！ feat. 藍月なくる[DX]
 &wholebpm=170
 &artist=lapix
+&artistid=872
 &des=みそかつ侍
 &shortid=11584
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

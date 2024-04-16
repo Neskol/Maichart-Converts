@@ -1,14 +1,16 @@
 &title=ラブって♡ジュエリー♪えんじぇる☆ブレイク！！[SD]
 &wholebpm=238
 &artist=あべにゅうぷろじぇくと feat.天月めぐる＆如月すみれ「ツインエンジェルBREAK」
+&artistid=432
 &des=玉子豆腐
 &shortid=717
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

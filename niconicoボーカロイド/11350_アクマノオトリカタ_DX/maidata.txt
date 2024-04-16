@@ -1,14 +1,16 @@
 &title=悪魔の踊り方[DX]
 &wholebpm=106
 &artist=キタニタツヤ
+&artistid=730
 &des=はっぴー
 &shortid=11350
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

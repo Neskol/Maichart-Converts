@@ -1,14 +1,16 @@
 &title=れっつ！みらくる☆はーどこあっ！[DX]
 &wholebpm=185
 &artist=Laur feat.みしゃも
+&artistid=827
 &des=じゃこレモン
 &shortid=11505
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -495,12 +497,12 @@ E
 {8},,2-6[8:1],8-4[8:1],,,1-5[8:1],7-3[8:1],
 {16},,,,1h[16:3],,,3h[16:3],,,5s1[4:1],,5,,8b,,
 {16}8b,,,,2x/7x,,3,4,3,,5/6,,4,5,3,6,
-{16}2,7,1,8,2bh[1:4],,,,B6,,,,B5,,,,
+{16}2,7,1,8,2bh[64:267],,,,B6,,,,B5,,,,
 {4}B4,(180)B3,B1,B8,
 {4}B7,(175)B6/A6,B5/A5,B4/A4,
 {4}B3/A3,(170)B1/A1,B8/A8,B7/A7,
 {8}B6/A6,,(160)5<8[8:1],5,B3/B4/E4,,1x,1h[4:1],
-{8}2,2h[4:1],(155)3x,3h[4:1],4,4h[4:1],5x,5,
+{8}2,2h[192:49],(155)3x,3h[4:1],4,4h[4:1],5x,5,
 {48}3/6,,,,,,,,,,,,(150)4,,,5,,,3,,,5,,,2,,,5,,,1,,,5,,,1,,2,,3,,8,,7,,6,,
 {24}2,3,4,7,6,5,3x/4x,,,2,,,1/8,,,7,,,5-1[8:1]/6-2[8:1],,,,,,
 {32}5b/6b,,,,,,,,4x/7xh[2:1],,,,,,,,A1,B1,C1,B5,A5,,,,2h[2:1],,,,,,,,

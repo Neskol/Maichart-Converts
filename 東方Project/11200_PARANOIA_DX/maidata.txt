@@ -1,14 +1,16 @@
 &title=Paranoia[DX]
 &wholebpm=150
 &artist=DiGiTAL WiNG feat. 花たん
+&artistid=618
 &des=某S氏
 &shortid=11200
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

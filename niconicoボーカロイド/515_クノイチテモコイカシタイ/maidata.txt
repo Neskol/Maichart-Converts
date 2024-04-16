@@ -1,14 +1,16 @@
 &title=クノイチでも恋がしたい[SD]
 &wholebpm=185
 &artist=みきとP
+&artistid=320
 &des=しろいろ
 &shortid=515
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

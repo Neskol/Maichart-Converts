@@ -1,14 +1,16 @@
 &title=I'm with you[DX]
 &wholebpm=181
 &artist=ラティナ(CV:高尾奏音)
+&artistid=564
 &des=シチミヘルツ
 &shortid=11119
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

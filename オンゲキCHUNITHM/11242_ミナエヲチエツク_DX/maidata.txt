@@ -1,14 +1,16 @@
 &title=みなえをチェック！[DX]
 &wholebpm=178
 &artist=小野 美苗(CV:伊藤 美来)
+&artistid=653
 &des=ロシェ@ペンギン
 &shortid=11242
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

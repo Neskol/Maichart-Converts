@@ -1,14 +1,16 @@
 &title=Garden Of The Dragon[SD]
 &wholebpm=120
 &artist=Kai「Wonderland Wars」
+&artistid=114
 &des=某S氏
 &shortid=453
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

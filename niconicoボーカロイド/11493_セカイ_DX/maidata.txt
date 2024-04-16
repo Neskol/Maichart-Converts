@@ -1,14 +1,16 @@
 &title=セカイ[DX]
 &wholebpm=133
 &artist=DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」
+&artistid=821
 &des=うさぎランドリー
 &shortid=11493
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

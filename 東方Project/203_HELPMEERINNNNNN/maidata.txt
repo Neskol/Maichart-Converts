@@ -1,14 +1,16 @@
 &title=Help me, ERINNNNNN!![SD]
 &wholebpm=183
 &artist=ビートまりお(COOL＆CREATE)
+&artistid=309
 &des=譜面-100号
 &shortid=203
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=魔理沙は大変なものを盗んでいきました[SD]
 &wholebpm=170
 &artist=ARM＋夕野ヨシミ(IOSYS)feat. 藤咲かりん
+&artistid=29
 &des=はっぴー
 &shortid=201
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=ウサテイ[SD]
 &wholebpm=190
 &artist=あまね＋ビートまりお(COOL＆CREATE)
+&artistid=244
 &des=はっぴー
 &shortid=224
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

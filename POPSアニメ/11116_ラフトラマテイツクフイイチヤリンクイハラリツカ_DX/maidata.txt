@@ -1,14 +1,16 @@
 &title=ラブ・ドラマティック feat. 伊原六花[DX]
 &wholebpm=129
 &artist=鈴木雅之
+&artistid=561
 &des=はっぴー
 &shortid=11116
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

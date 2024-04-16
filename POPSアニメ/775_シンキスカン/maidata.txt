@@ -1,14 +1,16 @@
 &title=ジンギスカン[SD]
 &wholebpm=150
 &artist=仁井山征弘 Feat. GREAT G and surprise
+&artistid=379
 &des=はっぴー
 &shortid=775
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MiLK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=Love's Theme of BADASS ～バッド・アス 愛のテーマ～[DX]
 &wholebpm=202
 &artist=Hommarju
+&artistid=780
 &des=Jack
 &shortid=11429
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=紅蓮の弓矢[SD]
 &wholebpm=180
 &artist=Linked Horizon「進撃の巨人」 [アニメPV]
+&artistid=125
 &des=mai-Star
 &shortid=336
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

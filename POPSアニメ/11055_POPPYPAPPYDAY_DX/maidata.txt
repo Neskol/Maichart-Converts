@@ -1,14 +1,16 @@
 &title=POPPY PAPPY DAY[DX]
 &wholebpm=157
 &artist=ポプ子(CV:五十嵐裕美)＆ピピ美(CV:松嵜麗)
+&artistid=499
 &des=某S氏
 &shortid=11055
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

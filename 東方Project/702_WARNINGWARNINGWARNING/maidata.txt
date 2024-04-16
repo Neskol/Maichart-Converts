@@ -1,14 +1,16 @@
 &title=WARNING×WARNING×WARNING[SD]
 &wholebpm=172
 &artist=暁Records
+&artistid=345
 &des=はっぴー
 &shortid=702
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

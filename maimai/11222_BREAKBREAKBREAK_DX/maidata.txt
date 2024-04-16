@@ -1,14 +1,16 @@
 &title=BREaK! BREaK! BREaK![DX]
 &wholebpm=165
 &artist=HiTECH NINJA vs Cranky
+&artistid=639
 &des=サファ太 vs -ZONE- SaFaRi
 &shortid=11222
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

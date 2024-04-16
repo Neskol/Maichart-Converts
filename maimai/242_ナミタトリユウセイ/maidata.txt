@@ -1,14 +1,16 @@
 &title=ナミダと流星[SD]
 &wholebpm=190
 &artist=芳川よしの
+&artistid=417
 &des=mai-Star
 &shortid=242
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=人里に下ったアタイがいつの間にか社畜になっていた件[SD]
 &wholebpm=180
 &artist=ねこみりん + nora2r feat. 小宮真央
+&artistid=298
 &des=某S氏
 &shortid=658
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

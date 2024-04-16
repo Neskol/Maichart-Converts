@@ -1,14 +1,16 @@
 &title=カラフル×メロディ[SD]
 &wholebpm=185
 &artist=ちーむMOER
+&artistid=467
 &des=はっぴー
 &shortid=847
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

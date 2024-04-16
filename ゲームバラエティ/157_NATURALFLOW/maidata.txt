@@ -1,14 +1,16 @@
 &title=Natural Flow[SD]
 &wholebpm=100
 &artist=KENTARO「Crackin’DJ」
+&artistid=120
 &des=ニャイン
 &shortid=157
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

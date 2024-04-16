@@ -1,14 +1,16 @@
 &title=INTERNET OVERDOSE[DX]
 &wholebpm=163
 &artist=Aiobahn feat. KOTOKO
+&artistid=860
 &des=サファ太
 &shortid=11568
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -136,7 +138,7 @@
 {1},
 (153){1}B1/B8,
 (130){2}B2/B7,(120),
-(110){2}C1h[1:1]/B3/B6,(95),
+(110){2}C1h[64:69]/B3/B6,(95),
 {1},
 {1},
 {1},
@@ -359,7 +361,7 @@ E
 {1},
 {1},
 (153){2}2h[1:1],B5,
-(130){2}7h[1:1],(120)B4,
+(130){2}7h[24:25],(120)B4,
 (110){4}E3,E2/E4,(95)E1/E5,E6/E8,
 (90){2}6xh[4:5],3h[4:3],
 {1},

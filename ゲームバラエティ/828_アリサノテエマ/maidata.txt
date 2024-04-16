@@ -1,14 +1,16 @@
 &title=アリサのテーマ[SD]
 &wholebpm=129
 &artist=池頼広
+&artistid=461
 &des=はっぴー
 &shortid=828
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

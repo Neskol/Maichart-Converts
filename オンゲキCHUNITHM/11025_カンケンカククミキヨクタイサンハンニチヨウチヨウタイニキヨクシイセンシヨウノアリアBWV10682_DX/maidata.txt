@@ -1,14 +1,16 @@
 &title=管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2[DX]
 &wholebpm=180
 &artist=月鈴 那知（ヴァイオリン） 伴奏：イロドリミドリ
+&artistid=495
 &des=小鳥遊さん
 &shortid=11025
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

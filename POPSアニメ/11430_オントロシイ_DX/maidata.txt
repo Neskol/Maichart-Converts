@@ -1,14 +1,16 @@
 &title=オントロジー[DX]
 &wholebpm=192
 &artist=Rain Drops
+&artistid=728
 &des=はっぴー
 &shortid=11430
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

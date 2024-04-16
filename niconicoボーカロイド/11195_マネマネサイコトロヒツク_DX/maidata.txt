@@ -1,14 +1,16 @@
 &title=マネマネサイコトロピック[DX]
 &wholebpm=210
 &artist=かいりきベア feat.GUMI
+&artistid=617
 &des=はっぴー
 &shortid=11195
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -157,7 +159,7 @@ E
 {1}7h[1:1],
 {1}8h[1:1],
 {1}1h[1:1],
-(136){16}2xv5[8:3],,,,(130),,,(129),(125),,,,(210),,,,
+(136){16}2xv5[0.4412##0.7024],,,,(130),,,(129),(125),,,,(210),,,,
 {4}6x,6,5,,
 {4}3,3,4,,
 {4}6,6,5,,
@@ -390,7 +392,7 @@ E
 {1},
 {1},
 {1},
-{4},,,1>8[2:1]/5qq8[2:1],
+{4},,,1>8[0.2857##0.9036]/5qq8[0.2857##0.9036],
 (136){16},,,,(130),,,(129),(125),,,,(210)1b,,,,
 {8}4/6-1[8:1],,5,5,,8,8,4,
 {8}5/3-8[8:1],,4,4,,1,1,5,

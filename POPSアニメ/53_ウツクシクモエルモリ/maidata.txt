@@ -1,14 +1,16 @@
 &title=美しく燃える森[SD]
 &wholebpm=140
 &artist=東京スカパラダイスオーケストラ [cover]
+&artistid=402
 &des=畳返し
 &shortid=53
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

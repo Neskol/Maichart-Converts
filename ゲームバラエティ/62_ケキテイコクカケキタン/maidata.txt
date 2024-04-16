@@ -1,14 +1,16 @@
 &title=檄！帝国華撃団(改)[SD]
 &wholebpm=144
 &artist=「サクラ大戦」
+&artistid=7
 &des=ニャイン
 &shortid=62
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=Riders Of The Light[SD]
 &wholebpm=143
 &artist=「BAYONETTA(ベヨネッタ)」
+&artistid=1
 &des=ニャイン
 &shortid=217
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

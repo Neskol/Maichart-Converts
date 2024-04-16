@@ -1,14 +1,16 @@
 &title=ホシトハナ[SD]
 &wholebpm=158
 &artist=讃州中学勇者部「結城友奈は勇者である」
+&artistid=369
 &des=rioN
 &shortid=645
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

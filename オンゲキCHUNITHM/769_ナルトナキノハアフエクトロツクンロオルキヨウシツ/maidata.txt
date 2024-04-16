@@ -1,14 +1,16 @@
 &title=なるとなぎのパーフェクトロックンロール教室[SD]
 &wholebpm=216
 &artist=イロドリミドリ「CHUNITHM」
+&artistid=248
 &des=華火職人
 &shortid=769
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai MiLK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

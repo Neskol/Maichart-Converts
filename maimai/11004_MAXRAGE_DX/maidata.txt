@@ -1,14 +1,16 @@
 &title=MAXRAGE[DX]
 &wholebpm=222
 &artist=EBIMAYO
+&artistid=68
 &des=玉子豆腐
 &shortid=11004
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

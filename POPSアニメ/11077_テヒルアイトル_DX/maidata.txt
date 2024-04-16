@@ -1,14 +1,16 @@
 &title=デビル☆アイドル[DX]
 &wholebpm=180
 &artist=アイラ（CV：三森すずこ）シマ（CV:井口裕香）はな（CV:花澤香菜）
+&artistid=521
 &des=某S氏
 &shortid=11077
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=ロキ[SD]
 &wholebpm=150
 &artist=みきとP
+&artistid=320
 &des=緑風 犬三郎
 &shortid=793
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

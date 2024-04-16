@@ -1,14 +1,16 @@
 &title=キュートなカノジョ[DX]
 &wholebpm=160
 &artist=syudou　feat.音楽的同位体　可不（KAFU）
+&artistid=842
 &des=はっぴー
 &shortid=11510
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

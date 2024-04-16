@@ -1,14 +1,16 @@
 &title=H-A-J-I-M-A-R-I-U-T-A-!![SD]
 &wholebpm=140
 &artist=777☆SISTERS
+&artistid=999
 &des=Revo@LC
 &shortid=576
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

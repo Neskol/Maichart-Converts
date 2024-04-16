@@ -1,14 +1,16 @@
 &title=リッジでリッジでGO!GO!GO! -GMT mashup-[SD]
 &wholebpm=146
 &artist=Hiro(SEGA)「RIDGE RACER」「電車でGO!」
+&artistid=87
 &des=某S氏
 &shortid=345
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

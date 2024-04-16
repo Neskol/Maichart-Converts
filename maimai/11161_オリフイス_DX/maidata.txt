@@ -1,14 +1,16 @@
 &title=オリフィス[DX]
 &wholebpm=200
 &artist=40mP feat. シャノ
+&artistid=590
 &des=はっぴー
 &shortid=11161
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

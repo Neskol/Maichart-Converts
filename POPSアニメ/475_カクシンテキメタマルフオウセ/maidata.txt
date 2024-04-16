@@ -1,14 +1,16 @@
 &title=かくしん的☆めたまるふぉ～ぜっ！[SD]
 &wholebpm=139
 &artist=土間うまる [CV.田中あいみ]「干物妹！うまるちゃん」
+&artistid=398
 &des=mai-Star
 &shortid=475
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

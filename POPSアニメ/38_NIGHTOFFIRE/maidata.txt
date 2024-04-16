@@ -1,14 +1,16 @@
 &title=NIGHT OF FIRE[SD]
 &wholebpm=155
 &artist=NIKO [cover]
+&artistid=153
 &des=maimai TEAM
 &shortid=38
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

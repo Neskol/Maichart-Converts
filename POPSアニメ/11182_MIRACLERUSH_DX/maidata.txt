@@ -1,14 +1,16 @@
 &title=MIRACLE RUSH[DX]
 &wholebpm=168
 &artist=StylipS
+&artistid=608
 &des=譜面男子学院 中堅 小鳥 遊
 &shortid=11182
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

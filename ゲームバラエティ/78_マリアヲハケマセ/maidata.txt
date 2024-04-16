@@ -1,14 +1,16 @@
 &title=マリアをはげませ[SD]
 &wholebpm=131
 &artist=大谷智哉「リズム怪盗R 皇帝ナポレオンの遺産」
+&artistid=390
 &des=ニャイン
 &shortid=78
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

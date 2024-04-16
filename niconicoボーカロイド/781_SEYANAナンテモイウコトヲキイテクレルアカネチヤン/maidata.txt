@@ -1,14 +1,16 @@
 &title=Seyana. ～何でも言うことを聞いてくれるアカネチャン～[SD]
 &wholebpm=144
 &artist=GYARI
+&artistid=80
 &des=玉子豆腐
 &shortid=781
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai MiLK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=ヨミビトシラズ[DX]
 &wholebpm=188
 &artist=Limonène (サノカモメ+月島春果)
+&artistid=699
 &des=Jack
 &shortid=11308
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

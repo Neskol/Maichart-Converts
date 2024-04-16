@@ -1,14 +1,16 @@
 &title=Shiny Smily Story[DX]
 &wholebpm=168
 &artist=hololive IDOL PROJECT
+&artistid=670
 &des=ものくろっく
 &shortid=11259
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

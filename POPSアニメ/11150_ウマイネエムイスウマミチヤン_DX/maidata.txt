@@ -1,14 +1,16 @@
 &title=ウマイネームイズうまみちゃん[DX]
 &wholebpm=184
 &artist=UMAINA
+&artistid=577
 &des=ロシェ@ペンギン
 &shortid=11150
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

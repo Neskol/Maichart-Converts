@@ -1,14 +1,16 @@
 &title=電光石火[DX]
 &wholebpm=165
 &artist=HiTECH NINJA
+&artistid=96
 &des=あまくちヘルツ
 &shortid=11478
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

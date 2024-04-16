@@ -1,14 +1,16 @@
 &title=夏祭り[SD]
 &wholebpm=141
 &artist=Jitterin' Jinn [covered by ろん]
+&artistid=108
 &des=しろいろ
 &shortid=499
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

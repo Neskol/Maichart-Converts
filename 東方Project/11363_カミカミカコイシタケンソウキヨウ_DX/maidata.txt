@@ -1,14 +1,16 @@
 &title=神々が恋した幻想郷[DX]
 &wholebpm=155
 &artist=Unlucky Morpheus
+&artistid=739
 &des=翠楼屋
 &shortid=11363
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

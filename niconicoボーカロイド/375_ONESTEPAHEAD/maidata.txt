@@ -1,14 +1,16 @@
 &title=One Step Ahead[SD]
 &wholebpm=186
 &artist=伊東歌詞太郎
+&artistid=334
 &des=mai-Star
 &shortid=375
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

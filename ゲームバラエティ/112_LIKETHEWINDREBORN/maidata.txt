@@ -1,14 +1,16 @@
 &title=Like the Wind [Reborn][SD]
 &wholebpm=200
 &artist=sampling masters MEGA「パワードリフト」
+&artistid=186
 &des=ニャイン
 &shortid=112
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

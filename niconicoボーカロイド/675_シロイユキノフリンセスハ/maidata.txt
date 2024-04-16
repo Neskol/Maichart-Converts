@@ -1,14 +1,16 @@
 &title=白い雪のプリンセスは[SD]
 &wholebpm=200
 &artist=のぼる↑
+&artistid=300
 &des=玉子豆腐
 &shortid=675
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

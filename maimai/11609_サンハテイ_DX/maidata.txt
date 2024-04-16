@@ -1,14 +1,16 @@
 &title=サンバディ！[DX]
 &wholebpm=136
 &artist=水野健治 feat.光吉猛修
+&artistid=912
 &des=Jack
 &shortid=11609
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX BUDDiES
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

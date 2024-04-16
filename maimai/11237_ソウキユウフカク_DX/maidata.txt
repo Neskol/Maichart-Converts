@@ -1,14 +1,16 @@
 &title=蒼穹舞楽[DX]
 &wholebpm=195
 &artist=Capchii
+&artistid=649
 &des=ぴちネコ
 &shortid=11237
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

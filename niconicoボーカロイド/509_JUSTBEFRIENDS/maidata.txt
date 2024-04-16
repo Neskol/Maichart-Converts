@@ -1,14 +1,16 @@
 &title=Just Be Friends[SD]
 &wholebpm=128
 &artist=Dixie Flatline
+&artistid=61
 &des=Revo@LC
 &shortid=509
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=究極焼肉レストラン！お燐の地獄亭！[SD]
 &wholebpm=185
 &artist=ARM＋夕野ヨシミ(IOSYS)feat. 藤枝あかね
+&artistid=30
 &des=某S氏
 &shortid=352
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

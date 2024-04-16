@@ -1,14 +1,16 @@
 &title=源平大戦絵巻テーマソング[SD]
 &wholebpm=190
 &artist=新小田夢童 ＆ キラ★ロッソ
+&artistid=377
 &des=ニャイン
 &shortid=47
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

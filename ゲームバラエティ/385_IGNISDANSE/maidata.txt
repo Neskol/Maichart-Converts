@@ -1,14 +1,16 @@
 &title=Ignis Danse[SD]
 &wholebpm=246
 &artist=Yuji Masubuchi「太鼓の達人」より
+&artistid=238
 &des=はっぴー
 &shortid=385
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

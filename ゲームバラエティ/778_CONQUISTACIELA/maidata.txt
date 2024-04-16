@@ -1,14 +1,16 @@
 &title=Conquista Ciela[SD]
 &wholebpm=140
 &artist=光吉猛修「バーチャロン」
+&artistid=356
 &des=某S氏
 &shortid=778
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai MiLK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

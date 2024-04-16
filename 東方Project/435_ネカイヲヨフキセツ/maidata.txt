@@ -1,14 +1,16 @@
 &title=願いを呼ぶ季節[SD]
 &wholebpm=170
 &artist=舞風-MAIKAZE/時音-TOKINE
+&artistid=412
 &des=mai-Star
 &shortid=435
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

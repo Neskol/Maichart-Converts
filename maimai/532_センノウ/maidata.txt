@@ -1,14 +1,16 @@
 &title=洗脳[SD]
 &wholebpm=125
 &artist=ゆりん・柿チョコ×Neru
+&artistid=324
 &des=Jack
 &shortid=532
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

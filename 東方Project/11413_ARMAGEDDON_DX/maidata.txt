@@ -1,14 +1,16 @@
 &title=Armageddon[DX]
 &wholebpm=210
 &artist=LeaF
+&artistid=123
 &des=翠楼屋
 &shortid=11413
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

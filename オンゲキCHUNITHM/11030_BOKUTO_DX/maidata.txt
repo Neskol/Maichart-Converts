@@ -1,14 +1,16 @@
 &title=BOKUTO[DX]
 &wholebpm=188
 &artist=じーざすP feat.kradness
+&artistid=485
 &des=ロシェ@ペンギン
 &shortid=11030
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

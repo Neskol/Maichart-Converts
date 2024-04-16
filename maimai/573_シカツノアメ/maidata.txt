@@ -1,14 +1,16 @@
 &title=四月の雨[SD]
 &wholebpm=79
 &artist=cubesato
+&artistid=49
 &des=譜面-100号
 &shortid=573
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

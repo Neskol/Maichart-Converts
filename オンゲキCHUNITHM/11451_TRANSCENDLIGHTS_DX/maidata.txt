@@ -1,14 +1,16 @@
 &title=Transcend Lights[DX]
 &wholebpm=70
 &artist=曲：小高光太郎／歌：オンゲキシューターズ
+&artistid=792
 &des=はっぴー
 &shortid=11451
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

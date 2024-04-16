@@ -1,14 +1,16 @@
 &title=東方スイーツ！～鬼畜姉妹と受難メイド～[SD]
 &wholebpm=179
 &artist=Innocent Keyと小宮真央、ココ、樹詩音
+&artistid=99
 &des=rioN
 &shortid=318
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

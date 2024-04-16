@@ -1,14 +1,16 @@
 &title=Stand Up!!!![SD]
 &wholebpm=185
 &artist=鈴木結愛(CV:西 明日香)/佐藤陽菜(CV:明坂聡美)/高橋 葵(CV:荻野可鈴)/田中心春(CV:大橋彩香)/「てさぐれ！部活もの」 [アニメPV]
+&artistid=427
 &des=はっぴー
 &shortid=371
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

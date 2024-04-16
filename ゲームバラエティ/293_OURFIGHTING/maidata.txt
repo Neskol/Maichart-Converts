@@ -1,14 +1,16 @@
 &title=Our Fighting[SD]
 &wholebpm=165
 &artist=クーナ(CV 喜多村英梨)「PHANTASY STAR ONLINE 2」
+&artistid=266
 &des=某S氏
 &shortid=293
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

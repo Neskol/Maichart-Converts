@@ -1,14 +1,16 @@
 &title=Love You[SD]
 &wholebpm=135
 &artist=Q;indivi [cover]
+&artistid=170
 &des=ニャイン
 &shortid=18
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

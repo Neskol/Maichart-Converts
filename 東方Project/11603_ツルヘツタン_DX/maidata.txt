@@ -1,14 +1,16 @@
 &title=つるぺったん[DX]
 &wholebpm=180
 &artist=Silver Forest
+&artistid=198
 &des=鳩ホルダー
 &shortid=11603
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

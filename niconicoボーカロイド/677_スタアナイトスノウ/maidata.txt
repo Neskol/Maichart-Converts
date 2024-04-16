@@ -1,14 +1,16 @@
 &title=スターナイトスノウ[SD]
 &wholebpm=180
 &artist=n-buna × Orangestar
+&artistid=149
 &des=小鳥遊さん
 &shortid=677
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

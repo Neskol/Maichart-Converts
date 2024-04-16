@@ -1,14 +1,16 @@
 &title=キミとボクのミライ[SD]
 &wholebpm=178
 &artist=ジータ（CV:金元寿子）、ルリア（CV:東山奈央）、ヴィーラ（CV:今井麻美）、マリー（CV:長谷川明子）
+&artistid=459
 &des=緑風 犬三郎
 &shortid=826
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

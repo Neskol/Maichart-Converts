@@ -1,14 +1,16 @@
 &title=INFINITE WORLD[SD]
 &wholebpm=167
 &artist=SOUND HOLIC feat. Nana Takahashi
+&artistid=203
 &des=某S氏
 &shortid=758
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai MiLK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

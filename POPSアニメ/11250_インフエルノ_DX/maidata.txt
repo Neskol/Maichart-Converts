@@ -1,14 +1,16 @@
 &title=インフェルノ[DX]
 &wholebpm=185
 &artist=Mrs. GREEN APPLE
+&artistid=661
 &des=緑風 犬三郎
 &shortid=11250
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

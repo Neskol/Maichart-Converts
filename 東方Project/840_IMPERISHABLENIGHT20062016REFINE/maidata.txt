@@ -1,14 +1,16 @@
 &title=Imperishable Night 2006 (2016 Refine)[SD]
 &wholebpm=161
 &artist=ゆうゆ / 篠螺悠那
+&artistid=464
 &des=シチミヘルツ
 &shortid=840
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

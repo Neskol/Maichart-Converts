@@ -1,14 +1,16 @@
 &title=電話革命ナイセン[DX]
 &wholebpm=145
 &artist=ナイセン - momoco-
+&artistid=290
 &des=はっぴー
 &shortid=11258
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

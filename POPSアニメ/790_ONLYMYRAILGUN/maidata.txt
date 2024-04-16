@@ -1,14 +1,16 @@
 &title=only my railgun[SD]
 &wholebpm=143
 &artist=fripSide
+&artistid=438
 &des=緑風 犬三郎
 &shortid=790
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

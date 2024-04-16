@@ -1,14 +1,16 @@
 &title=解けないように[DX]
 &wholebpm=112
 &artist=KIHOW from MYTH & ROID
+&artistid=926
 &des=Jack
 &shortid=11580
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX BUDDiES
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -225,7 +227,7 @@ E
 {1}6>4[2:1],
 {1}2<8[2:1],
 {1}7<2[4:7],
-{1}C1h[1:2],
+{1}C1h[384:623],
 (180){1},
 {1},
 {4}3h[4:15],E4,,E3,

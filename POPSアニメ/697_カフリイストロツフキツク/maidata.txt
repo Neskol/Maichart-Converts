@@ -1,14 +1,16 @@
 &title=ガヴリールドロップキック[SD]
 &wholebpm=168
 &artist=ガヴリール（富田美憂），ヴィーネ（大西沙織），サターニャ（大空直美），ラフィエル（花澤香菜）「ガヴリールドロップアウト」
+&artistid=254
 &des=玉子豆腐
 &shortid=697
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

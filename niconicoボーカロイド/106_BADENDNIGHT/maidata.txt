@@ -1,14 +1,16 @@
 &title=BAD∞END∞NIGHT[SD]
 &wholebpm=204
 &artist=ひとしずくP・やま△
+&artistid=314
 &des=ニャイン
 &shortid=106
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

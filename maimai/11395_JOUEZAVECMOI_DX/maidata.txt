@@ -1,14 +1,16 @@
 &title=Jouez Avec Moi?[DX]
 &wholebpm=162
 &artist=Retropolitaliens (Ms.+駄々子)
+&artistid=762
 &des=小鳥遊さん
 &shortid=11395
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

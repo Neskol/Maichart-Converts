@@ -1,14 +1,16 @@
 &title=ホシシズク[DX]
 &wholebpm=182
 &artist=森羅万象
+&artistid=556
 &des=隅田川星人
 &shortid=11452
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

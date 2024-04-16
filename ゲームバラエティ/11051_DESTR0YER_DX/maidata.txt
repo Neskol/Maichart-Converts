@@ -1,14 +1,16 @@
 &title=Destr0yer[DX]
 &wholebpm=90
 &artist=削除 feat. Nikki Simmons
+&artistid=528
 &des=サファ太
 &shortid=11051
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=NOISY LOVE POWER☆[SD]
 &wholebpm=140
 &artist=大橋彩香
+&artistid=436
 &des=はっぴー
 &shortid=788
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

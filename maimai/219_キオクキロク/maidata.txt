@@ -1,14 +1,16 @@
 &title=記憶、記録[SD]
 &wholebpm=185
 &artist=LOPIT(SEGA)
+&artistid=129
 &des=ニャイン
 &shortid=219
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

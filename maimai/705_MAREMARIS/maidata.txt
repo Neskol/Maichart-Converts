@@ -1,14 +1,16 @@
 &title=Mare Maris[SD]
 &wholebpm=150
 &artist=M2U
+&artistid=131
 &des=小鳥遊さん
 &shortid=705
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

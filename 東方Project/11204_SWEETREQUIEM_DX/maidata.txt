@@ -1,14 +1,16 @@
 &title=Sweet Requiem[DX]
 &wholebpm=190
 &artist=REDALiCE & aran
+&artistid=620
 &des=隅田川星人
 &shortid=11204
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

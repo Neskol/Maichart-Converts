@@ -1,14 +1,16 @@
 &title=康莊大道[DX]
 &wholebpm=208
 &artist=Spiegel vs Yukino
+&artistid=807
 &des=ボコ太
 &shortid=11470
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

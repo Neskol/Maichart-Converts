@@ -1,14 +1,16 @@
 &title=MOON NIGHTのせいにして[DX]
 &wholebpm=141
 &artist=DRAMATIC STARS [天道 輝 (CV.仲村宗悟), 桜庭 薫 (CV.内田雄馬), 柏木 翼 (CV.八代 拓)]
+&artistid=712
 &des=はっぴー
 &shortid=11324
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=きゅうくらりん[DX]
 &wholebpm=220
 &artist=いよわ
+&artistid=832
 &des=はっぴー
 &shortid=11512
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

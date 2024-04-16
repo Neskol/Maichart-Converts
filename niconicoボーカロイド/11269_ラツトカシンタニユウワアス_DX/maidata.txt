@@ -1,14 +1,16 @@
 &title=ラットが死んだnew words[DX]
 &wholebpm=146
 &artist=P.I.N.A.
+&artistid=674
 &des=はっぴー
 &shortid=11269
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

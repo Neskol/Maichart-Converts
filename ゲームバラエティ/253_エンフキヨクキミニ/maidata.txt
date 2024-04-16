@@ -1,14 +1,16 @@
 &title=円舞曲、君に[SD]
 &wholebpm=128
 &artist=「サクラ大戦奏組」
+&artistid=8
 &des=はっぴー
 &shortid=253
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

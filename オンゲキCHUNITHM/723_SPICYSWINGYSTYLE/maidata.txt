@@ -1,14 +1,16 @@
 &title=SPICY SWINGY STYLE[SD]
 &wholebpm=242
 &artist=明坂 芹菜(CV:新田 恵海)
+&artistid=420
 &des=小鳥遊さん
 &shortid=723
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

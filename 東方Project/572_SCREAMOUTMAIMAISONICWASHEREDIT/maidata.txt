@@ -1,14 +1,16 @@
 &title=Scream out! -maimai SONIC WASHER Edit-[SD]
 &wholebpm=174
 &artist=A-One
+&artistid=24
 &des=某S氏
 &shortid=572
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

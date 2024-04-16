@@ -1,14 +1,16 @@
 &title=コトバ・カラフル[SD]
 &wholebpm=169
 &artist=うたよめ575＜正岡小豆(大坪由佳)小林抹茶(大橋彩香)＞
+&artistid=250
 &des=はっぴー
 &shortid=326
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

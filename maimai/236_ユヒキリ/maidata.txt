@@ -1,14 +1,16 @@
 &title=ユビキリ[SD]
 &wholebpm=174
 &artist=山根ミチル
+&artistid=368
 &des=原田ひろゆき
 &shortid=236
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

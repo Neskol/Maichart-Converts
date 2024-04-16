@@ -1,14 +1,16 @@
 &title=Spring of Dreams[DX]
 &wholebpm=153
 &artist=3L (NJK Record)
+&artistid=782
 &des=アミノハバキリ
 &shortid=11434
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -39,7 +41,7 @@
 {2}1,1,
 {2}1,1,
 {2}8,8,
-(80){8}1xh[2:1]/8xh[2:1],(75),(70),(60),(49),,,,
+(80){8}1xh[192:109]/8xh[192:109],(75),(70),(60),(49),,,,
 (153){1},
 {2}1x,1,
 {1}2,
@@ -127,7 +129,7 @@ E
 {2}E5,E4/E6,
 {2}B3/B6,B2/B7,
 {2}B8/E8,B1/E2,
-(80){8}C1h[1:1],(75),(70),(60),(49),,,,
+(80){8}C1h[96:133],(75),(70),(60),(49),,,,
 (153){1},
 {4}7,7,8,8,
 {4}1,1,2/8,,
@@ -215,7 +217,7 @@ E
 {4}3h[1:1],4,5,4,
 {4}6h[1:1],5,4,5,
 {4}3h[4:3],4,5,4,
-(80){8}E5,(75),(70)B4/B5,(60),(49)C1fh[1:1]/B3/B6,,,,
+(80){8}E5,(75),(70)B4/B5,(60),(49)C1fh[384:253]/B3/B6,,,,
 (153){1},
 {4}1x/8x,2,1/8,7,
 {8}7/8,,7/8,,6,6,5,,

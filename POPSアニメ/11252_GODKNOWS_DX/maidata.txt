@@ -1,14 +1,16 @@
 &title=God knows...[DX]
 &wholebpm=150
 &artist=涼宮ハルヒ（CV.平野 綾） TVアニメ「涼宮ハルヒの憂鬱」
+&artistid=663
 &des=緑風 犬三郎
 &shortid=11252
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

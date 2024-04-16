@@ -1,14 +1,16 @@
 &title=物凄い勢いでけーねが物凄いうた[SD]
 &wholebpm=180
 &artist=Halozy
+&artistid=82
 &des=mai-Star
 &shortid=360
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

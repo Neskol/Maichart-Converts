@@ -1,14 +1,16 @@
 &title=Photon Melodies[DX]
 &wholebpm=128
 &artist=Photon Maiden
+&artistid=769
 &des=はっぴー
 &shortid=11420
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

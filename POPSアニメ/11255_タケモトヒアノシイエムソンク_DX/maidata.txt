@@ -1,14 +1,16 @@
 &title=タケモトピアノCMソング[DX]
 &wholebpm=174
 &artist=タケモトピアノCM
+&artistid=673
 &des=はっぴー
 &shortid=11255
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -86,7 +88,7 @@ E
 {1}7x<3[2:1],
 {4}2,2,1,1,
 {4}8,8,2b/7b,,
-{1}1xpp4[4:5]/8xqq5[4:5],
+{1}1xpp4[0.4878##2.1531]/8xqq5[0.4878##2.1531],
 (174){1},
 {2},(160),
 {4}4/5,4/5,3b/6b,,
@@ -94,7 +96,7 @@ E
 {4}3,4,3h[4:1]/5h[4:1],,
 {1}6bv3[2:1],
 {4}2,1/2,7,7/8,
-{4}6,5,3bV15[8:7]/6bV84[8:7],(113),
+{4}6,5,3bV15[0.375##2.031]/6bV84[0.375##2.031],(113),
 (100){1},
 {4},(110)2x>6[2:1],,,
 (123){4},,7,7,

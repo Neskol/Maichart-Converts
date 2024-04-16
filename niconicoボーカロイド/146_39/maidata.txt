@@ -1,14 +1,16 @@
 &title=39[SD]
 &wholebpm=175
 &artist=sasakure.UK x DECO*27
+&artistid=188
 &des=譜面-100号
 &shortid=146
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

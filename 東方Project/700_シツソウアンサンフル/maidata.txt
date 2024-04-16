@@ -1,14 +1,16 @@
 &title=疾走あんさんぶる[SD]
 &wholebpm=195
 &artist=ビートまりお（COOL&CREATE）
+&artistid=310
 &des=某S氏
 &shortid=700
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

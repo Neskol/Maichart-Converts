@@ -1,14 +1,16 @@
 &title=フォルテシモBELL[SD]
 &wholebpm=121
 &artist=天王洲 なずな(CV:山本 彩乃)
+&artistid=395
 &des=ロシェ@ペンギン
 &shortid=546
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

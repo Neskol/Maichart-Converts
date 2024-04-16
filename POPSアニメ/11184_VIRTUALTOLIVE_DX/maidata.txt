@@ -1,14 +1,16 @@
 &title=Virtual to LIVE[DX]
 &wholebpm=156
 &artist=にじさんじ
+&artistid=610
 &des=譜面-100号
 &shortid=11184
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

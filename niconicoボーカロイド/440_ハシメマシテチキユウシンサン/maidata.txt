@@ -1,14 +1,16 @@
 &title=はじめまして地球人さん[SD]
 &wholebpm=175
 &artist=ピノキオピー
+&artistid=316
 &des=某S氏
 &shortid=440
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

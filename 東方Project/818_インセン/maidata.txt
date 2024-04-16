@@ -1,14 +1,16 @@
 &title=隠然[SD]
 &wholebpm=210
 &artist=豚乙女
+&artistid=403
 &des=緑風 犬三郎
 &shortid=818
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

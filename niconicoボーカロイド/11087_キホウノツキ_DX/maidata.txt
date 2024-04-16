@@ -1,14 +1,16 @@
 &title=幾望の月[DX]
 &wholebpm=276
 &artist=なきゃむりゃ
+&artistid=527
 &des=小鳥遊さん
 &shortid=11087
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -521,7 +523,7 @@ E
 {4},7,6,5,
 {8}4,5,4,,4/5,,3h[1:1]/5h[1:1],,
 {1},
-{4}4h[1:1]/6h[1:1],,,(271),
+{4}4h[192:193]/6h[192:193],,,(271),
 {4},(276)3h[1:1]/5h[1:1],,,
 {4},,2,3,
 {8}4,,5,4,5,,2b/7b,,

@@ -1,14 +1,16 @@
 &title=東奔西走行進曲[DX]
 &wholebpm=165
 &artist=BLACK STARS（ブラック指令・ペガッサ星人・シルバーブルーメ・ノーバ）
+&artistid=510
 &des=はっぴー
 &shortid=11071
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

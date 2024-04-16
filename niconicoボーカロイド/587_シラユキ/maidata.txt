@@ -1,14 +1,16 @@
 &title=白ゆき[SD]
 &wholebpm=210
 &artist=n-buna
+&artistid=148
 &des=ぴちネコ
 &shortid=587
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=Pursuing My True Self[SD]
 &wholebpm=119
 &artist=目黒 将司
+&artistid=421
 &des=Techno Kitchen
 &shortid=441
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

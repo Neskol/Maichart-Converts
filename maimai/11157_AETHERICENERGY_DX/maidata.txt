@@ -1,14 +1,16 @@
 &title=Aetheric Energy[DX]
 &wholebpm=205
 &artist=aran
+&artistid=586
 &des=華火職人
 &shortid=11157
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

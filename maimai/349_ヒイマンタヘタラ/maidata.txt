@@ -1,14 +1,16 @@
 &title=ピーマンたべたら[SD]
 &wholebpm=178
 &artist=カタオカツグミ
+&artistid=255
 &des=Revo@LC
 &shortid=349
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

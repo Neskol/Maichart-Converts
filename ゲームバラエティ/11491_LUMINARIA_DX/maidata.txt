@@ -1,14 +1,16 @@
 &title=Luminaria[DX]
 &wholebpm=227
 &artist=Lime
+&artistid=648
 &des=小鳥遊さん
 &shortid=11491
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -271,7 +273,7 @@ E
 (197){4}1xh[4:3],,,(212)2xh[4:3],
 {2},(227)3xh[4:3],
 {4},4xh[4:3],,,
-(212){4}5xh[4:3],(227),,6xh[4:3],
+(212){4}5xh[384:275],(227),,6xh[4:3],
 {2},7xh[4:3],
 {4},8xh[4:3],,,
 (212){4}1,(227),,1/8,

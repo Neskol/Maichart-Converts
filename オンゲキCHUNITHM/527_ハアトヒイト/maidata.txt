@@ -1,14 +1,16 @@
 &title=ハート・ビート[SD]
 &wholebpm=212
 &artist=明坂 芹菜(CV:新田 恵海)
+&artistid=420
 &des=しろいろ
 &shortid=527
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

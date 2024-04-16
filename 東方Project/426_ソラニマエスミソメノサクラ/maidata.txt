@@ -1,14 +1,16 @@
 &title=蒼空に舞え、墨染の桜[SD]
 &wholebpm=150
 &artist=Silver Forest
+&artistid=198
 &des=はっぴー
 &shortid=426
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

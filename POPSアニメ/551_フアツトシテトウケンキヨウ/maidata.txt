@@ -1,14 +1,16 @@
 &title=ファッとして桃源郷[SD]
 &wholebpm=160
 &artist=新庄かなえ(CV:三森すずこ)「てーきゅう」
+&artistid=378
 &des=はっぴー
 &shortid=551
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

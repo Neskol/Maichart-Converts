@@ -1,14 +1,16 @@
 &title=アスノヨゾラ哨戒班[DX]
 &wholebpm=185
 &artist=Orangestar feat.IA
+&artistid=636
 &des=はっぴー
 &shortid=11198
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

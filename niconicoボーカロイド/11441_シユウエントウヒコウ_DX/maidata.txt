@@ -1,14 +1,16 @@
 &title=終焉逃避行[DX]
 &wholebpm=147
 &artist=柊マグネタイト
+&artistid=778
 &des=じゃこレモン
 &shortid=11441
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

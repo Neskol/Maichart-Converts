@@ -1,14 +1,16 @@
 &title=ヴァンパイア[DX]
 &wholebpm=164
 &artist=DECO*27
+&artistid=57
 &des=緑風 犬三郎
 &shortid=11410
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

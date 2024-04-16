@@ -1,14 +1,16 @@
 &title=Jumble Rumble[SD]
 &wholebpm=185
 &artist=INNOCENT NOIZE
+&artistid=101
 &des=某S氏
 &shortid=492
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=単一指向性オーバーブルーム[DX]
 &wholebpm=158
 &artist=葛城 華(CV:丸岡 和佳奈)
+&artistid=652
 &des=Redarrow
 &shortid=11241
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=未来(ソラ)の歌[SD]
 &wholebpm=153
 &artist=Questy「ポッピンQ」
+&artistid=999
 &des=ぴちネコ
 &shortid=656
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

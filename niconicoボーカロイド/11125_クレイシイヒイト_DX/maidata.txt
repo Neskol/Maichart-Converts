@@ -1,14 +1,16 @@
 &title=クレイジー・ビート[DX]
 &wholebpm=130
 &artist=さつき が てんこもり
+&artistid=271
 &des=シチミヘルツ
 &shortid=11125
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

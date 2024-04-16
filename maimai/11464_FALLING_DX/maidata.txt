@@ -1,14 +1,16 @@
 &title=Falling[DX]
 &wholebpm=122
 &artist=シノ feat.しほ
+&artistid=802
 &des=カマボコ君
 &shortid=11464
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

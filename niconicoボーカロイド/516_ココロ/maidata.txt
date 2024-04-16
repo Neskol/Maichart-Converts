@@ -1,14 +1,16 @@
 &title=ココロ[SD]
 &wholebpm=140
 &artist=トラボルタ
+&artistid=289
 &des=rioN
 &shortid=516
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

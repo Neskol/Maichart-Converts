@@ -1,14 +1,16 @@
 &title=教えて!! 魔法のLyric[SD]
 &wholebpm=180
 &artist=ちょむP <advanced mix>
+&artistid=283
 &des=maimai TEAM
 &shortid=64
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

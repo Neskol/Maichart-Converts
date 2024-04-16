@@ -1,14 +1,16 @@
 &title=福宿音屋魂音泉[DX]
 &wholebpm=162
 &artist=魂音泉
+&artistid=363
 &des=7.3Hz＋Jack
 &shortid=11017
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=In my world (Prod. KOTONOHOUSE)[DX]
 &wholebpm=160
 &artist=鳳凰火凛・瀬戸海月・大賀ルキア「電音部」
+&artistid=843
 &des=Jack
 &shortid=11507
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=Lost Princess[SD]
 &wholebpm=150
 &artist=ペコリーヌ（CV：M・A・O）、コッコロ（CV：伊藤美来）、キャル（CV：立花理香）
+&artistid=460
 &des=緑風 犬三郎
 &shortid=827
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

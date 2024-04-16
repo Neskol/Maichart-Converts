@@ -1,14 +1,16 @@
 &title=女々しくて[SD]
 &wholebpm=143
 &artist=ゴールデンボンバー [PV]
+&artistid=999
 &des=ニャイン
 &shortid=172
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

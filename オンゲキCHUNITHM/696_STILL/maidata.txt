@@ -1,14 +1,16 @@
 &title=Still[SD]
 &wholebpm=176
 &artist=イロドリミドリ「CHUNITHM」
+&artistid=248
 &des=Jack
 &shortid=696
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

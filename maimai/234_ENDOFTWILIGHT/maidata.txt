@@ -1,14 +1,16 @@
 &title=End of Twilight[SD]
 &wholebpm=180
 &artist=ALiCE'S EMOTiON feat. Ayumi Nomiya
+&artistid=21
 &des=Jack
 &shortid=234
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

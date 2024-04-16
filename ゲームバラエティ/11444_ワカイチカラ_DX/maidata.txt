@@ -1,14 +1,16 @@
 &title=若い力[DX]
 &wholebpm=114
 &artist=作詞：セガ社員、作曲：若草恵、歌：135
+&artistid=791
 &des=作譜：翠楼屋
 &shortid=11444
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -115,7 +117,7 @@ E
 {2}E6,E5,
 {2}E4,E3,
 {2}E2,1x/8x,
-(114.072){12}2V41[2:1]/7V58[2:1],,,,,,,,(85),(77),(65),(40),
+(114.072){12}2V41[0.526##1.1119]/7V58[0.526##1.1119],,,,,,,,(85),(77),(65),(40),
 {1}C1fh[2:1],
 {1},
 {1},

@@ -1,14 +1,16 @@
 &title=心象蜃気楼[SD]
 &wholebpm=190
 &artist=Orangestar
+&artistid=159
 &des=Revo@LC
 &shortid=627
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

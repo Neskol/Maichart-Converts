@@ -1,14 +1,16 @@
 &title=TEmPTaTiON[DX]
 &wholebpm=160
 &artist=かねこちはる
+&artistid=256
 &des=小鳥遊さん
 &shortid=11026
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

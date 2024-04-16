@@ -1,14 +1,16 @@
 &title=鼓動[SD]
 &wholebpm=121
 &artist=青木 千紘「龍が如く 維新！」
+&artistid=380
 &des=譜面-100号
 &shortid=337
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

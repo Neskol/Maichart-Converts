@@ -1,14 +1,16 @@
 &title=封焔の135秒[DX]
 &wholebpm=200
 &artist=大国奏音
+&artistid=549
 &des=7.3GHz vs Phoenix
 &shortid=11102
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

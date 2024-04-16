@@ -1,14 +1,16 @@
 &title=Color My World[SD]
 &wholebpm=94
 &artist=GOSH/クラシック「悲愴」
+&artistid=79
 &des=ニャイン
 &shortid=9
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=魔ジョ狩リ[DX]
 &wholebpm=190
 &artist=Nothing But Requiem (feat.Aikapin & Chiyoko)
+&artistid=481
 &des=サファ太
 &shortid=11021
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

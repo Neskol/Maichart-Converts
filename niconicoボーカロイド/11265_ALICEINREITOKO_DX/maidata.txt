@@ -1,14 +1,16 @@
 &title=Alice in 冷凍庫[DX]
 &wholebpm=176
 &artist=Orangestar
+&artistid=159
 &des=Jack
 &shortid=11265
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -73,7 +75,7 @@
 {1}2h[2:3],
 {1},
 {1},
-{1}1h[2:5]/8h[2:5],
+{1}1h[384:1003]/8h[384:1003],
 {1},
 (176){1},
 {4},1x-4[4:5],,,
@@ -174,7 +176,7 @@ E
 {2},7h[4:3],
 {4},8,,,
 {4}2h[4:3],,,1,
-{2},1h[1:1]/8h[1:1],
+{2},1h[384:427]/8h[384:427],
 (176){1},
 {4},7x<4[2:1],,,
 {4},3,,3/4,

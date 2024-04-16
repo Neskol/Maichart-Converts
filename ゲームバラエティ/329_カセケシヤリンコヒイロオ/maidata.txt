@@ -1,14 +1,16 @@
 &title=かせげ！ジャリンコヒーロー[SD]
 &wholebpm=186
 &artist=角田信朗「ヒーローバンク」
+&artistid=342
 &des=某S氏
 &shortid=329
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

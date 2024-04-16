@@ -1,14 +1,16 @@
 &title=True Love Song[SD]
 &wholebpm=150
 &artist=Kai/クラシック「G線上のアリア」
+&artistid=111
 &des=ニャイン
 &shortid=8
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

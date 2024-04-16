@@ -1,14 +1,16 @@
 &title=うまるん体操[SD]
 &wholebpm=170
 &artist=妹Ｓ「干物妹！うまるちゃんR」
+&artistid=418
 &des=緑風 犬三郎
 &shortid=730
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MiLK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=キレキャリオン[SD]
 &wholebpm=170
 &artist=ポリスピカデリー
+&artistid=318
 &des=Moon Strix
 &shortid=693
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

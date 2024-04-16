@@ -1,14 +1,16 @@
 &title=true my heart -Lovable mix-[SD]
 &wholebpm=135
 &artist=ave;new feat.佐倉紗織
+&artistid=434
 &des=某S氏
 &shortid=752
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

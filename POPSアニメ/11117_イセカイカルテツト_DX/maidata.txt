@@ -1,14 +1,16 @@
 &title=異世界かるてっと[DX]
 &wholebpm=148
 &artist=アインズ(日野聡)、カズマ(福島潤)、スバル(小林裕介)、ターニャ(悠木碧)
+&artistid=562
 &des=はっぴー
 &shortid=11117
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

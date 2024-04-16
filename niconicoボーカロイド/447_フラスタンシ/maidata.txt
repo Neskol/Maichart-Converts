@@ -1,14 +1,16 @@
 &title=+♂[SD]
 &wholebpm=180
 &artist=ギガ/れをる　ダンス　アルスマグナ
+&artistid=262
 &des=はっぴー
 &shortid=447
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

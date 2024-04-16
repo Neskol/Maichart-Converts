@@ -1,14 +1,16 @@
 &title=YONA YONA DANCE[DX]
 &wholebpm=145
 &artist=和田アキ子
+&artistid=783
 &des=はっぴー
 &shortid=11450
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

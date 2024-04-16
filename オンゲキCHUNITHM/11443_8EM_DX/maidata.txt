@@ -1,14 +1,16 @@
 &title=8-EM[DX]
 &wholebpm=168
 &artist=Sampling Masters AYA
+&artistid=773
 &des=小鳥遊チミ
 &shortid=11443
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

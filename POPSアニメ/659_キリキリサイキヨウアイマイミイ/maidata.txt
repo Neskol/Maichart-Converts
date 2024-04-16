@@ -1,14 +1,16 @@
 &title=ギリギリ最強あいまいみー！[SD]
 &wholebpm=185
 &artist=愛(C.V.大坪由佳) 麻衣(C.V.内田彩) ミイ(C.V.内田真礼)「あいまいみー」
+&artistid=333
 &des=Revo@LC
 &shortid=659
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

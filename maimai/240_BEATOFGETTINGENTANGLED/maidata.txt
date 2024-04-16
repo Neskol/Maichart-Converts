@@ -1,14 +1,16 @@
 &title=Beat of getting entangled[SD]
 &wholebpm=140
 &artist=Shoichiro Hirata
+&artistid=195
 &des=ニャイン
 &shortid=240
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=L4TS:2018 (feat. あひる & KTA)[SD]
 &wholebpm=190
 &artist=Sprite Recordings
+&artistid=451
 &des=サファ太
 &shortid=815
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

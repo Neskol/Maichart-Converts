@@ -1,14 +1,16 @@
 &title=デッドマンズバラッド[DX]
 &wholebpm=300
 &artist=cosMo＠暴走P
+&artistid=45
 &des=サファ太
 &shortid=11328
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

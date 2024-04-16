@@ -1,14 +1,16 @@
 &title=テレキャスタービーボーイ[DX]
 &wholebpm=182
 &artist=すりぃ
+&artistid=567
 &des=緑風 犬三郎
 &shortid=11325
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

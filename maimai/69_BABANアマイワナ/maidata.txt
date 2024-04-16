@@ -1,14 +1,16 @@
 &title=BaBan!! －甘い罠－[SD]
 &wholebpm=161
 &artist=Hiro/永江理奈
+&artistid=90
 &des=maimai TEAM
 &shortid=69
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

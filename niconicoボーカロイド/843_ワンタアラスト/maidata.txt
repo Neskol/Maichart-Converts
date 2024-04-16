@@ -1,14 +1,16 @@
 &title=ワンダーラスト[SD]
 &wholebpm=230
 &artist=sasakure.UK
+&artistid=187
 &des=小鳥遊さん
 &shortid=843
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -376,7 +378,7 @@ E
 (199){8}3h[4:1]/6h[4:1],,,4/5,4>1[16:3]/5<8[16:3],,,,
 {8},,2,1,(206)3h[4:1]/8h[4:1],,,,
 {8}7,8,1h[4:1]/6h[4:1],,,,1,8,
-(213){8}2h[4:1]/7h[4:1],,,1/8,8/1p8[2:1],,(214),,
+(213){8}2h[4:1]/7h[4:1],,,1/8,8/1p8[0.2817##0.5607],,(214),,
 {2},2h[4:5]/7h[4:5],
 {1},
 (230){16}1,8,1,8,1,8,1,8,1b,,,,,,,,

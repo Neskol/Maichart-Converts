@@ -1,14 +1,16 @@
 &title=Alice's Suitcase[DX]
 &wholebpm=190
 &artist=Endorfin.
+&artistid=644
 &des=Jack vs あまくちジンジャー
 &shortid=11524
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -198,7 +200,7 @@ E
 {2},3-8[8:5],
 {1},
 {1}7-3[8:5],
-{2},(180)2-6[8:5],
+{2},(180)2-6[0.3333##0.8431],
 {4},(170),,,
 (190){4}7,7,7,,
 {4}6,6,6,,

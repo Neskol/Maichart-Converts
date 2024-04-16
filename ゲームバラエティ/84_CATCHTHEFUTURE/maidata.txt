@@ -1,14 +1,16 @@
 &title=Catch The Future[SD]
 &wholebpm=210
 &artist=「BORDER BREAK UNION」メインテーマ
+&artistid=2
 &des=譜面-100号
 &shortid=84
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

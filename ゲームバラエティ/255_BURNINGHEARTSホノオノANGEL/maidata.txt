@@ -1,14 +1,16 @@
 &title=Burning Hearts ～炎のANGEL～[SD]
 &wholebpm=155
 &artist=幡谷尚史 Arranged by SEGA Sound Unit [H.]「バーニングレンジャー」
+&artistid=407
 &des=某S氏
 &shortid=255
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

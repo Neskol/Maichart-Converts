@@ -1,14 +1,16 @@
 &title=MIRROR of MAGIC[SD]
 &wholebpm=135
 &artist=Shoichiro Hirata feat.SUIMI
+&artistid=196
 &des=Jack
 &shortid=351
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

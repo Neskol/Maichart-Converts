@@ -1,14 +1,16 @@
 &title=少女幻葬戦慄曲 ～ Necro Fantasia[SD]
 &wholebpm=182
 &artist=どぶウサギ
+&artistid=288
 &des=rioN
 &shortid=427
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

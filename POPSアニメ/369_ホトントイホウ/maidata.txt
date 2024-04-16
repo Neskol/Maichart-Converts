@@ -1,14 +1,16 @@
 &title=ほとんど違法行為[SD]
 &wholebpm=128
 &artist=ネコネコカワイイ「ニンジャスレイヤー」
+&artistid=999
 &des=mai-Star
 &shortid=369
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=ViRTUS[DX]
 &wholebpm=225
 &artist=Hiro
+&artistid=85
 &des=jacK on Phoenix & -ZONE- SaFaRi
 &shortid=11523
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

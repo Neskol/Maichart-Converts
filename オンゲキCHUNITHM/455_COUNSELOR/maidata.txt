@@ -1,14 +1,16 @@
 &title=Counselor[SD]
 &wholebpm=135
 &artist=DECO*27 feat.echo
+&artistid=58
 &des=Techno Kitchen
 &shortid=455
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

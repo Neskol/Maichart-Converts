@@ -1,14 +1,16 @@
 &title=グッバイ宣言[DX]
 &wholebpm=170
 &artist=Chinozo
+&artistid=731
 &des=はっぴー
 &shortid=11353
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

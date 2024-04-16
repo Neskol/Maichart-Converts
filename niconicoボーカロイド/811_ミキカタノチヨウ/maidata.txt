@@ -1,14 +1,16 @@
 &title=右肩の蝶[SD]
 &wholebpm=140
 &artist=のりP
+&artistid=449
 &des=ものくろっく
 &shortid=811
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=回马枪[SD]
 &wholebpm=126
 &artist=唐禹哲
+&artistid=999
 &des=-
 &shortid=903
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

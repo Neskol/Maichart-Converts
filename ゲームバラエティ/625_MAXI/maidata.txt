@@ -1,14 +1,16 @@
 &title=Maxi[SD]
 &wholebpm=180
 &artist=Nizikawa
+&artistid=154
 &des=小鳥遊さん
 &shortid=625
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

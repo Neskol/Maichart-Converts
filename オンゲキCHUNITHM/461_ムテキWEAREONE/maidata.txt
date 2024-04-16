@@ -1,14 +1,16 @@
 &title=無敵We are one!![SD]
 &wholebpm=190
 &artist=イロドリミドリ「CHUNITHM」
+&artistid=248
 &des=Techno Kitchen
 &shortid=461
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

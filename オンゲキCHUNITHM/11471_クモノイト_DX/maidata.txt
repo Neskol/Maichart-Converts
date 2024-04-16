@@ -1,14 +1,16 @@
 &title=蜘蛛の糸[DX]
 &wholebpm=180
 &artist=きくお×cosMo＠暴走P feat.影縫英
+&artistid=808
 &des=小鳥遊さん×アミノハバキリ
 &shortid=11471
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

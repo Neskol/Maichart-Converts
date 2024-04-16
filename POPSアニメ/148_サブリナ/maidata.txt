@@ -1,14 +1,16 @@
 &title=サブリナ[SD]
 &wholebpm=136
 &artist=家入レオ [PV]
+&artistid=999
 &des=譜面-100号
 &shortid=148
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

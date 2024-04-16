@@ -1,14 +1,16 @@
 &title=Jump!! Jump!! Jump!![DX]
 &wholebpm=183
 &artist=曲：宮崎誠／歌：オンゲキシューターズ
+&artistid=525
 &des=ロシェ@ペンギン
 &shortid=11080
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

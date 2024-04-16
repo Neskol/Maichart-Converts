@@ -1,14 +1,16 @@
 &title=CITRUS MONSTER[SD]
 &wholebpm=220
 &artist=D-Cee
+&artistid=56
 &des=ロシェ@ペンギン
 &shortid=494
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

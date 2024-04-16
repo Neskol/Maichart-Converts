@@ -1,14 +1,16 @@
 &title=オパ! オパ! RACER -GMT mashup-[SD]
 &wholebpm=172
 &artist=COSIO(ZUNTATA/TAITO)「ファンタジーゾーン」「RIDGE RACER」
+&artistid=44
 &des=チャン@DP皆伝
 &shortid=346
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

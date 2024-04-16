@@ -1,14 +1,16 @@
 &title=幽闇に目醒めしは[SD]
 &wholebpm=120
 &artist=セブンスヘブンMAXION
+&artistid=280
 &des=rioN
 &shortid=582
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

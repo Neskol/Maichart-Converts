@@ -1,14 +1,16 @@
 &title=Altale[SD]
 &wholebpm=90
 &artist=削除
+&artistid=366
 &des=チャン@DP皆伝
 &shortid=837
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=＊ハロー、プラネット。[SD]
 &wholebpm=150
 &artist=sasakure.UK
+&artistid=187
 &des=mai-Star
 &shortid=185
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

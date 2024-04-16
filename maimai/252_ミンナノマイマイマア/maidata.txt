@@ -1,14 +1,16 @@
 &title=みんなのマイマイマー[SD]
 &wholebpm=175
 &artist=ビートまりお(COOL＆CREATE)+ ARM(IOSYS)
+&artistid=311
 &des=ニャイン
 &shortid=252
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

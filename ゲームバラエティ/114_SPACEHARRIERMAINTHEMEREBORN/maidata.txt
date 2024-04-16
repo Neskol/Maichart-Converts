@@ -1,14 +1,16 @@
 &title=Space Harrier Main Theme [Reborn][SD]
 &wholebpm=125
 &artist=佐野 信義「スペースハリアー」
+&artistid=364
 &des=チャン@DP皆伝
 &shortid=114
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察[SD]
 &wholebpm=175
 &artist=小仏 凪(CV:佐倉 薫)
+&artistid=373
 &des=玉子豆腐
 &shortid=547
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

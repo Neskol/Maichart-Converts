@@ -1,14 +1,16 @@
 &title=きらっせ☆ウッド村ファーム[SD]
 &wholebpm=190
 &artist=uno(IOSYS) feat.miko
+&artistid=224
 &des=はっぴー
 &shortid=601
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

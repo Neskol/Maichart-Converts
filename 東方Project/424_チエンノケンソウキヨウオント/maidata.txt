@@ -1,14 +1,16 @@
 &title=橙の幻想郷音頭[SD]
 &wholebpm=136
 &artist=発熱巫女～ず
+&artistid=410
 &des=某S氏
 &shortid=424
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -84,7 +86,7 @@
 {2}7/8,1/2,
 {2}7/8,1/2,
 {4}4/6,,3/5,(134),
-(121){4}2-5[2:1],(116),(103),,
+(121){4}2-5[0.4959##1.0998],(116),(103),,
 {1},
 {1},
 E
@@ -201,7 +203,7 @@ E
 {12}1<6[8:1]/2>5[8:1],,1/2,,,,4/7,,,3b/6b,,,
 {6}4q8[8:1]/5<7[8:1],4/5,,4>2[8:1]/5p1[8:1],4/5,,
 {12}4q8[8:1]/5<7[8:1],,4/5,,,,4/5,,,2/8,,,
-{4}8h[4:1],7h[4:1],6h[4:1],(134)5p3[16:5],
+{4}8h[4:1],7h[4:1],6h[4:1],(134)5p3[0.4478##0.6252],
 (121){4},(116),(103)1/7,,
 {1},
 {1},

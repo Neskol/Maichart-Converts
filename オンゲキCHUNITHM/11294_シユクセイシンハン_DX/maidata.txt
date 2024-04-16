@@ -1,14 +1,16 @@
 &title=宿星審判[DX]
 &wholebpm=189
 &artist=suzu
+&artistid=686
 &des=ぴちネコ
 &shortid=11294
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

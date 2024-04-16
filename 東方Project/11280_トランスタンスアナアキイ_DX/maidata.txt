@@ -1,14 +1,16 @@
 &title=トランスダンスアナーキー[DX]
 &wholebpm=195
 &artist=暁Records
+&artistid=345
 &des=はっぴー
 &shortid=11280
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

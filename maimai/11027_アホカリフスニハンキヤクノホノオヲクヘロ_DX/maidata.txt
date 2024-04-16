@@ -1,14 +1,16 @@
 &title=アポカリプスに反逆の焔を焚べろ[DX]
 &wholebpm=222
 &artist=cosMo＠暴走AlterEgo
+&artistid=531
 &des=サファ太
 &shortid=11027
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -97,7 +99,7 @@
 {1}B3/B4,
 {1}B5/B6,
 {1}B7/B8,
-{1}C1fh[1:5],
+{1}C1fh[3:11],
 (333){1},
 {1},
 {1},

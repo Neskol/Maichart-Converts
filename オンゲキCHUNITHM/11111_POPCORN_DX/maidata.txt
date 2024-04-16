@@ -1,14 +1,16 @@
 &title=popcorn[DX]
 &wholebpm=130
 &artist=happy machine
+&artistid=548
 &des=Techno Kitchen
 &shortid=11111
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

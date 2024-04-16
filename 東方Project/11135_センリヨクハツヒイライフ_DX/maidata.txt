@@ -1,14 +1,16 @@
 &title=全力ハッピーライフ[DX]
 &wholebpm=190
 &artist=森羅万象
+&artistid=556
 &des=はっぴー
 &shortid=11135
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

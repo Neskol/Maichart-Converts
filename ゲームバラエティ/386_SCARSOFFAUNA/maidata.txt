@@ -1,14 +1,16 @@
 &title=Scars of FAUNA[SD]
 &wholebpm=165
 &artist=猫叉Master「jubeat」より
+&artistid=405
 &des=チャン@DP皆伝
 &shortid=386
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

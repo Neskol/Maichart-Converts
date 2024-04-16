@@ -1,14 +1,16 @@
 &title=チューリングの跡[DX]
 &wholebpm=180
 &artist=Frums
+&artistid=76
 &des=譜面-100号
 &shortid=11388
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

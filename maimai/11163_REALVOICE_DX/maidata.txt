@@ -1,14 +1,16 @@
 &title=REAL VOICE[DX]
 &wholebpm=183
 &artist=達見 恵 featured by 佐野 宏晃
+&artistid=592
 &des=アマリリス
 &shortid=11163
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

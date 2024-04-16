@@ -1,14 +1,16 @@
 &title=生きてるおばけは生きている[SD]
 &wholebpm=140
 &artist=鬱P feat.flower
+&artistid=429
 &des=rioN
 &shortid=565
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=ゆりゆららららゆるゆり大事件[SD]
 &wholebpm=175
 &artist=七森中☆ごらく部「ゆるゆり」
+&artistid=999
 &des=rioN
 &shortid=544
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

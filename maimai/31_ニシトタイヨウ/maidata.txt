@@ -1,14 +1,16 @@
 &title=虹と太陽[SD]
 &wholebpm=146
 &artist=GOSH/manami
+&artistid=78
 &des=ニャイン
 &shortid=31
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

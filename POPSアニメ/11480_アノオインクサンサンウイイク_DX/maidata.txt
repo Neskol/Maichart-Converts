@@ -1,14 +1,16 @@
 &title=アノーイング！さんさんウィーク！[DX]
 &wholebpm=140
 &artist=五十嵐双葉（ＣＶ：楠木ともり）、桜井桃子（ＣＶ：早見沙織）、黒部夏美（ＣＶ：青山玲菜）、月城モナ（ＣＶ：古賀葵）
+&artistid=814
 &des=ロシェ@ペンギン
 &shortid=11480
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

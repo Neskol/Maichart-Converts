@@ -1,14 +1,16 @@
 &title=紅に染まる恋の花[DX]
 &wholebpm=140
 &artist=幽閉サテライト
+&artistid=425
 &des=カマボコ君
 &shortid=11436
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

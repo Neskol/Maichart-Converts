@@ -1,14 +1,16 @@
 &title=きたさいたま2000[SD]
 &wholebpm=222
 &artist=LindaAI-CUE(BNGI)「太鼓の達人」より
+&artistid=124
 &des=合作だよ
 &shortid=388
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

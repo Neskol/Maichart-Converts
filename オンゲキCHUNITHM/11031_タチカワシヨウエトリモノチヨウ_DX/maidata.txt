@@ -1,14 +1,16 @@
 &title=立川浄穢捕物帳[DX]
 &wholebpm=210
 &artist=青島探偵事務所器楽捜査部B担
+&artistid=486
 &des=シチミヘルツ
 &shortid=11031
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

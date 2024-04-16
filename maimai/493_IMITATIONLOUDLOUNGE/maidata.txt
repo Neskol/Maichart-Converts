@@ -1,14 +1,16 @@
 &title=Imitation:Loud Lounge[SD]
 &wholebpm=145
 &artist=Ino(chronoize)
+&artistid=102
 &des=Techno Kitchen
 &shortid=493
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

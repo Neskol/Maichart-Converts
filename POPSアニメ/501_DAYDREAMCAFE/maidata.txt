@@ -1,14 +1,16 @@
 &title=Daydream café[SD]
 &wholebpm=150
 &artist=Petit Rabbit's「ご注文はうさぎですか？」
+&artistid=168
 &des=はっぴー
 &shortid=501
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

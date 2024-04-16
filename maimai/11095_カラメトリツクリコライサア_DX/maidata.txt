@@ -1,14 +1,16 @@
 &title=絡めトリック利己ライザー[DX]
 &wholebpm=150
 &artist=じーざす（ワンダフル☆オポチュニティ！）feat.Kradness
+&artistid=538
 &des=小鳥遊さん
 &shortid=11095
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

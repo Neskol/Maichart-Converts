@@ -1,14 +1,16 @@
 &title=HERA[SD]
 &wholebpm=185
 &artist=ルゼ
+&artistid=325
 &des=Revo@LC
 &shortid=567
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

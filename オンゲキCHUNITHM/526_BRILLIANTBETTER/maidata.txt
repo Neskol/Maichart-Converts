@@ -1,14 +1,16 @@
 &title=brilliant better[SD]
 &wholebpm=172
 &artist=御形 アリシアナ(CV:福原 綾香)
+&artistid=352
 &des=ロシェ@ペンギン
 &shortid=526
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

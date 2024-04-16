@@ -1,14 +1,16 @@
 &title=天国と地獄 -言ノ葉リンネ-[SD]
 &wholebpm=138
 &artist=伊東歌詞太郎・ろん×れるりり
+&artistid=336
 &des=Moon Strix
 &shortid=613
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

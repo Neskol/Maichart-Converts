@@ -1,14 +1,16 @@
 &title=Phantasm Brigade[SD]
 &wholebpm=168
 &artist=Silver Forest
+&artistid=198
 &des=玉子豆腐
 &shortid=585
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

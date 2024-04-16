@@ -1,14 +1,16 @@
 &title=トラフィック・ジャム[DX]
 &wholebpm=130
 &artist=煮ル果実
+&artistid=676
 &des=はっぴー
 &shortid=11273
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

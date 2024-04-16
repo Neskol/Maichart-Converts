@@ -1,14 +1,16 @@
 &title=Ghost Dance[DX]
 &wholebpm=154
 &artist=亜沙 feat.くろくも
+&artistid=812
 &des=Jack
 &shortid=11477
 &genre=オンゲキCHUNITHM
+&genreid=106
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

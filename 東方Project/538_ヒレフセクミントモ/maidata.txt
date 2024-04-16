@@ -1,14 +1,16 @@
 &title=ひれ伏せ愚民どもっ！[SD]
 &wholebpm=180
 &artist=ARM＋夕野ヨシミ (IOSYS) feat.miko
+&artistid=26
 &des=rioN
 &shortid=538
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

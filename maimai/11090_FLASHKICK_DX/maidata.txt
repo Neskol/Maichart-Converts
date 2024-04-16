@@ -1,14 +1,16 @@
 &title=Flashkick[DX]
 &wholebpm=175
 &artist=Yooh
+&artistid=533
 &des=華火職人
 &shortid=11090
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

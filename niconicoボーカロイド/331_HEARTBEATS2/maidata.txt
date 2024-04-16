@@ -1,14 +1,16 @@
 &title=Heart Beats[SD]
 &wholebpm=128
 &artist=向日葵×emon(Tes.)
+&artistid=358
 &des=Jack
 &shortid=331
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

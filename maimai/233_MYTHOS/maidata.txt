@@ -1,14 +1,16 @@
 &title=MYTHOS[SD]
 &wholebpm=158
 &artist=Cranky feat. まらしぃ ＆ てっぺい先生
+&artistid=47
 &des=mai-Star
 &shortid=233
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

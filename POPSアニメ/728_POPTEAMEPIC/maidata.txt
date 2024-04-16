@@ -1,14 +1,16 @@
 &title=POP TEAM EPIC[SD]
 &wholebpm=142
 &artist=上坂すみれ「ポプテピピック」
+&artistid=376
 &des=緑風 犬三郎
 &shortid=728
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MiLK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

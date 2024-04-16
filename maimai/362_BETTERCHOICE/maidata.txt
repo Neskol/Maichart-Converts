@@ -1,14 +1,16 @@
 &title=BETTER CHOICE[SD]
 &wholebpm=130
 &artist=Jimmy Weckl feat.高貴みな
+&artistid=107
 &des=Jack
 &shortid=362
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

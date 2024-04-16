@@ -1,14 +1,16 @@
 &title=ネガティブ進化論[DX]
 &wholebpm=140
 &artist=DECO*27
+&artistid=57
 &des=Jack
 &shortid=11260
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

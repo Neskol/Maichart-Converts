@@ -1,14 +1,16 @@
 &title=CYCLES[SD]
 &wholebpm=135
 &artist=Masayoshi Minoshima feat. 綾倉盟
+&artistid=136
 &des=はっぴー
 &shortid=230
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

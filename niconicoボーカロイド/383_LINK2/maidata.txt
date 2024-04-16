@@ -1,14 +1,16 @@
 &title=Link[SD]
 &wholebpm=198
 &artist=Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)
+&artistid=36
 &des=某S氏
 &shortid=383
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai ORANGE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

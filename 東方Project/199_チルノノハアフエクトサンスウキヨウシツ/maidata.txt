@@ -1,14 +1,16 @@
 &title=チルノのパーフェクトさんすう教室[SD]
 &wholebpm=175
 &artist=ARM＋夕野ヨシミ(IOSYS)feat. miko
+&artistid=28
 &des=某S氏
 &shortid=199
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

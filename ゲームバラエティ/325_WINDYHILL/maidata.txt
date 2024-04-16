@@ -1,14 +1,16 @@
 &title=Windy Hill -Zone 1[SD]
 &wholebpm=194
 &artist=大谷智哉「ソニック ロストワールド」
+&artistid=389
 &des=チャン@DP皆伝
 &shortid=325
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

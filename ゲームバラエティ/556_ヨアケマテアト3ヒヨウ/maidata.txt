@@ -1,14 +1,16 @@
 &title=夜明けまであと３秒[SD]
 &wholebpm=182
 &artist=BNSI（Taku Inoue）「シンクロニカ」より
+&artistid=32
 &des=ロシェ@ペンギン
 &shortid=556
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

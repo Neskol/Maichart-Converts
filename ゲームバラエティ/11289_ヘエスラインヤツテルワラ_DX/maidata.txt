@@ -1,14 +1,16 @@
 &title=ベースラインやってる？笑[DX]
 &wholebpm=128
 &artist=かめりあ feat. ななひら
+&artistid=681
 &des=はっぴー
 &shortid=11289
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

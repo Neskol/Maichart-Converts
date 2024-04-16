@@ -1,14 +1,16 @@
 &title=神室雪月花[SD]
 &wholebpm=86
 &artist=桐生 一馬「龍が如く」
+&artistid=346
 &des=mai-Star
 &shortid=212
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai GreeN
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

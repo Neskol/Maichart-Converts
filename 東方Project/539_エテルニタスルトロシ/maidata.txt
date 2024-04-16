@@ -1,14 +1,16 @@
 &title=エテルニタス・ルドロジー[SD]
 &wholebpm=178
 &artist=IRON ATTACK!
+&artistid=105
 &des=某S氏
 &shortid=539
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai PiNK PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

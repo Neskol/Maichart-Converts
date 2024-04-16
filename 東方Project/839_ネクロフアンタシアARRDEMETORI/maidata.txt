@@ -1,14 +1,16 @@
 &title=ネクロファンタジア～Arr.Demetori[SD]
 &wholebpm=180
 &artist=Demetori
+&artistid=463
 &des=シチミヘルツ
 &shortid=839
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

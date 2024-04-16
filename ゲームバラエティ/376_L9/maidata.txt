@@ -1,14 +1,16 @@
 &title=L9[SD]
 &wholebpm=256
 &artist=paraoka
+&artistid=165
 &des=ロシェ@ペンギン
 &shortid=376
 &genre=ゲームバラエティ
+&genreid=104
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -68,7 +70,7 @@
 {2},4-1[4:7],
 {1},
 {1},
-{2},8-5[4:7],
+{2},8-5[0.2344##1.7446],
 {1},
 (220){4},(200),(177),(158),
 (139){4},(106),(252)4,,
@@ -201,7 +203,7 @@ E
 {8}4h[8:7],,,,,,,5,
 {8},4,,5,5,,,,
 {4},8,8,8,
-(220){4}1h[2:3],(200),(177),(158)8h[4:3],
+(220){4}1h[192:403],(200),(177),(158)8h[32:29],
 (139){4},(106),(252),,
 {4},2/7,,,
 {4}3/6,,,4/5,

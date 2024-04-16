@@ -1,14 +1,16 @@
 &title=Yet Another ”drizzly rain”[SD]
 &wholebpm=175
 &artist=myu314 feat.あまね(COOL&CREATE)
+&artistid=144
 &des=某S氏
 &shortid=437
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

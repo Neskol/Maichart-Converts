@@ -1,14 +1,16 @@
 &title=日本の米は世界一[SD]
 &wholebpm=138
 &artist=打首獄門同好会
+&artistid=384
 &des=Jack
 &shortid=636
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

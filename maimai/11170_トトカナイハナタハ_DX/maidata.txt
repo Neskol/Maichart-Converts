@@ -1,14 +1,16 @@
 &title=届かない花束[DX]
 &wholebpm=180
 &artist=ELECTROCUTICA
+&artistid=598
 &des=はっぴー
 &shortid=11170
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX Splash PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=SPELL MAGIC[SD]
 &wholebpm=180
 &artist=Acid Black Cherry [PV]
+&artistid=999
 &des=ニャイン
 &shortid=149
 &genre=POPSアニメ
+&genreid=101
 &cabinet=SD
 &version=maimai PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

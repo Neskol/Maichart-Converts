@@ -1,14 +1,16 @@
 &title=スカーレット警察のゲットーパトロール24時[DX]
 &wholebpm=160
 &artist=七条レタスグループ
+&artistid=818
 &des=はっぴー
 &shortid=11488
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

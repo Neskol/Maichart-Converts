@@ -1,14 +1,16 @@
 &title=群青讃歌[DX]
 &wholebpm=168
 &artist=Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」
+&artistid=820
 &des=はっぴー
 &shortid=11492
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=Pretender[DX]
 &wholebpm=92
 &artist=Official髭男dism
+&artistid=629
 &des=はっぴー
 &shortid=11217
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

@@ -1,14 +1,16 @@
 &title=六兆年と一夜物語[SD]
 &wholebpm=186
 &artist=kemu
+&artistid=118
 &des=Jack
 &shortid=288
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=SD
 &version=maimai ORANGE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -354,7 +356,7 @@ E
 {16}7,,4,5,4,,3/6,,1/8,,2/7,,3/6,,4/5,,
 {16}2b/7b,,,,1/8,,2/7,,3/6,,5,4,5,,3/6,,
 (178.478){16}2/7,,1,8,(168.416)1,,2/7,,(162.607)1/5,,2/6,,(140.856)3/7,,4/8,,
-(126.931){8}1/5,2/6,(108.727)3/7,4h[64:35]/8h[64:35],(119.51),,,,
+(126.931){8}1/5,2/6,(108.727)3/7,4h[128:65]/8h[128:65],(119.51),,,,
 (186){16}4>1[8:1]/8<5[8:1],,,,4/8,,,,8,7,8,7,4,5,4,5,
 {16}2,1,2,1,4,5,4,5,3,,2/4,,6,,5/7,,
 {8}1-5[8:1]/8-4[8:1],,1b/8b,,3/4,4/5,5/6,,

@@ -1,14 +1,16 @@
 &title=Horoscope Express[DX]
 &wholebpm=236
 &artist=pan
+&artistid=913
 &des=あまくちジンジャー
 &shortid=11610
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX BUDDiES
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

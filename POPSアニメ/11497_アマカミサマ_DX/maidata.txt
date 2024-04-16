@@ -1,14 +1,16 @@
 &title=アマカミサマ[DX]
 &wholebpm=174
 &artist=名取さな
+&artistid=824
 &des=アマリリスせんせえ
 &shortid=11497
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

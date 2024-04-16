@@ -1,14 +1,16 @@
 &title=待チ人ハ来ズ。[SD]
 &wholebpm=160
 &artist=豚乙女
+&artistid=403
 &des=mai-Star
 &shortid=313
 &genre=東方Project
+&genreid=103
 &cabinet=SD
 &version=maimai GreeN PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

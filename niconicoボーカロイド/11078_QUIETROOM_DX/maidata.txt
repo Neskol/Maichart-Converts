@@ -1,14 +1,16 @@
 &title=quiet room[DX]
 &wholebpm=93
 &artist=有機酸
+&artistid=522
 &des=はっぴー
 &shortid=11078
 &genre=niconicoボーカロイド
+&genreid=102
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

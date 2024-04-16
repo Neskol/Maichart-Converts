@@ -1,14 +1,16 @@
 &title=7thSense[SD]
 &wholebpm=150
 &artist=削除
+&artistid=366
 &des=ロシェ@ペンギン
 &shortid=462
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai PiNK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

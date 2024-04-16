@@ -1,14 +1,16 @@
 &title=Swift Swing[DX]
 &wholebpm=150
 &artist=Laur
+&artistid=589
 &des=はっぴー星人
 &shortid=11386
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

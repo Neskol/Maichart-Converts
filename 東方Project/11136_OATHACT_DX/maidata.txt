@@ -1,14 +1,16 @@
 &title=Oath Act[DX]
 &wholebpm=172
 &artist=暁Records
+&artistid=345
 &des=隅田川星人
 &shortid=11136
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.0
+&ChartConvertToolVersion=1.0.7.1
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
