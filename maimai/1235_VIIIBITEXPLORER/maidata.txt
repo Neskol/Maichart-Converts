@@ -1,9 +1,11 @@
 &title=VIIIbit Explorer[SD]
 &wholebpm=188
 &artist=Lime
+&artistid=648
 &des=Jack
 &shortid=1235
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol

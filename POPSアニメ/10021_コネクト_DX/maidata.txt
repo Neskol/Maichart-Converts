@@ -1,9 +1,11 @@
 &title=コネクト[DX]
 &wholebpm=175
 &artist=ClariS　「魔法少女まどか☆マギカ」
+&artistid=38
 &des=はっぴー
 &shortid=10021
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol

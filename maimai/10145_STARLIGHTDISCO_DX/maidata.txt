@@ -1,9 +1,11 @@
 &title=Starlight Disco[DX]
 &wholebpm=128
 &artist=loos feat. Meramipop
+&artistid=127
 &des=Starlight Disco Festa
 &shortid=10145
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol

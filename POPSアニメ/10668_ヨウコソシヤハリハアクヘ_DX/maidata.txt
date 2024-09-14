@@ -1,9 +1,11 @@
 &title=ようこそジャパリパークへ[DX]
 &wholebpm=170
 &artist=どうぶつビスケッツ×PPP「けものフレンズ」
+&artistid=286
 &des=はっぴー
 &shortid=10668
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

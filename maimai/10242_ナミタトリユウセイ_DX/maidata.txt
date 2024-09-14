@@ -1,9 +1,11 @@
 &title=ナミダと流星[DX]
 &wholebpm=190
 &artist=芳川よしの
+&artistid=417
 &des=Jack
 &shortid=10242
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX BUDDiES
 &ChartConverter=Neskol

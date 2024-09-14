@@ -1,9 +1,11 @@
 &title=シュガーソングとビターステップ[DX]
 &wholebpm=132
 &artist=UNISON SQUARE GARDEN
+&artistid=223
 &des=はっぴー
 &shortid=10500
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

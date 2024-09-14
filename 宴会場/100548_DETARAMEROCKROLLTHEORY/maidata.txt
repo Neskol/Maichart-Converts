@@ -1,4 +1,4 @@
-&title=[宴]DETARAME ROCK&ROLL THEORY[宴]
+&title=[疑]DETARAME ROCK&ROLL THEORY[宴]
 &wholebpm=140
 &artist=箱部 なる(CV:M・A・O)
 &des=

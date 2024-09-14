@@ -1,9 +1,11 @@
 &title=渦状銀河のシンフォニエッタ[SD]
 &wholebpm=238
 &artist=山本真央樹
+&artistid=542
 &des=はっぴー
 &shortid=1103
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai DX BUDDiES
 &ChartConverter=Neskol

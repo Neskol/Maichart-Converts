@@ -1,9 +1,11 @@
 &title=Calamity Fortune[DX]
 &wholebpm=200
 &artist=LeaF
+&artistid=123
 &des=シチミヘルツ
 &shortid=10641
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
@@ -23,7 +25,7 @@
 &lv_4=11
 &des_4=某S氏
 
-&lv_5=13
+&lv_5=13+
 &des_5=シチミヘルツ
 
 &lv_6=

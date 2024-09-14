@@ -1,9 +1,11 @@
 &title=Grip & Break down !![DX]
 &wholebpm=160
 &artist=SOUND HOLIC feat. Nana Takahashi
+&artistid=203
 &des=Techno Kitchen
 &shortid=10202
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX UNiVERSE PLUS
 &ChartConverter=Neskol

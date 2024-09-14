@@ -1,4 +1,4 @@
-&title=[協]アカツキアライヴァル[宴]
+&title=[奏]アカツキアライヴァル[宴]
 &wholebpm=125
 &artist=Last Note.
 &des=

@@ -1,9 +1,11 @@
 &title=君の知らない物語[DX]
 &wholebpm=165
 &artist=supercell「化物語」
+&artistid=211
 &des=某S氏
 &shortid=10181
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol

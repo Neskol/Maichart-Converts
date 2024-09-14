@@ -1,9 +1,11 @@
 &title=チルノのパーフェクトさんすう教室　⑨周年バージョン[DX]
 &wholebpm=175
 &artist=IOSYSと愉快な⑨周年フレンズ
+&artistid=103
 &des=華火職人
 &shortid=10665
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

@@ -1,9 +1,11 @@
 &title=Selector[DX]
 &wholebpm=148
 &artist=Aliesrite* (Ym1024 feat. lamie*)
+&artistid=22
 &des=ボコ太
 &shortid=10574
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol

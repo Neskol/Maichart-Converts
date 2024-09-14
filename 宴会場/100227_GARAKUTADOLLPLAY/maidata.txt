@@ -1,4 +1,4 @@
-&title=[宴]Garakuta Doll Play[宴]
+&title=[は]Garakuta Doll Play[宴]
 &wholebpm=256
 &artist=t+pazolite
 &des=

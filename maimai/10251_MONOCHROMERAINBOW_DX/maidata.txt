@@ -1,9 +1,11 @@
 &title=Monochrome Rainbow[DX]
 &wholebpm=182
 &artist=Sta
+&artistid=205
 &des=Jack
 &shortid=10251
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol

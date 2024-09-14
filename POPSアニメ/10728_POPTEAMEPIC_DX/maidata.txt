@@ -1,9 +1,11 @@
 &title=POP TEAM EPIC[DX]
 &wholebpm=142
 &artist=上坂すみれ「ポプテピピック」
+&artistid=376
 &des=小鳥遊さん
 &shortid=10728
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

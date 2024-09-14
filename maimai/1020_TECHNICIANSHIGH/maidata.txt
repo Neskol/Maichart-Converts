@@ -1,9 +1,11 @@
 &title=Technicians High[SD]
 &wholebpm=165
 &artist=HiTECH NINJA
+&artistid=96
 &des=シチミヘルツ
 &shortid=1020
 &genre=maimai
+&genreid=105
 &cabinet=SD
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol

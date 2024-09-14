@@ -1,9 +1,11 @@
 &title=かくしん的☆めたまるふぉ～ぜっ！[DX]
 &wholebpm=139
 &artist=土間うまる [CV.田中あいみ]「干物妹！うまるちゃん」
+&artistid=398
 &des=小鳥遊さん
 &shortid=10475
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

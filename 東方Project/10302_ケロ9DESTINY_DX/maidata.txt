@@ -1,9 +1,11 @@
 &title=ケロ⑨destiny[DX]
 &wholebpm=172
 &artist=Silver Forest
+&artistid=198
 &des=Redarrow
 &shortid=10302
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol

@@ -1,9 +1,11 @@
 &title=火炎地獄[DX]
 &wholebpm=216
 &artist=山根ミチル
+&artistid=368
 &des=はっぴー
 &shortid=10235
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol

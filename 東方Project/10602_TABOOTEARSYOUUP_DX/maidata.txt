@@ -1,9 +1,11 @@
 &title=taboo tears you up[DX]
 &wholebpm=180
 &artist=REDALiCE (HARDCORE TANO*C)
+&artistid=178
 &des=サファ太
 &shortid=10602
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX UNiVERSE
 &ChartConverter=Neskol

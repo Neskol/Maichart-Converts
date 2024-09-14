@@ -1,9 +1,11 @@
 &title=oboro[DX]
 &wholebpm=175
 &artist=ヒゲドライバー
+&artistid=313
 &des=鳩ホルダー
 &shortid=10366
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX BUDDiES
 &ChartConverter=Neskol

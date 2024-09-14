@@ -1,9 +1,11 @@
 &title=Daydream café[DX]
 &wholebpm=150
 &artist=Petit Rabbit's「ご注文はうさぎですか？」
+&artistid=168
 &des=小鳥遊さん
 &shortid=10501
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX Splash
 &ChartConverter=Neskol

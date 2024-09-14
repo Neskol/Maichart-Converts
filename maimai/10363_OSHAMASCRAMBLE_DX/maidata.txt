@@ -1,9 +1,11 @@
 &title=Oshama Scramble![DX]
 &wholebpm=190
 &artist=t+pazolite
+&artistid=213
 &des=Jack
 &shortid=10363
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

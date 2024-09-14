@@ -1,9 +1,11 @@
 &title=WARNING×WARNING×WARNING[DX]
 &wholebpm=172
 &artist=暁Records
+&artistid=345
 &des=玉子豆腐
 &shortid=10702
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

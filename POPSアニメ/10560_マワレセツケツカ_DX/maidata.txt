@@ -1,9 +1,11 @@
 &title=回レ！雪月花[DX]
 &wholebpm=160
 &artist=歌組雪月花 夜々(原田ひとみ)/いろり(茅野愛衣)/小紫(小倉唯)「機巧少女は傷つかない」
+&artistid=340
 &des=華火職人
 &shortid=10560
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

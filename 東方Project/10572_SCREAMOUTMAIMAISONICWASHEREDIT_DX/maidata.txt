@@ -1,9 +1,11 @@
 &title=Scream out! -maimai SONIC WASHER Edit-[DX]
 &wholebpm=174
 &artist=A-One
+&artistid=24
 &des=シチミヘルツ
 &shortid=10572
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

@@ -1,9 +1,11 @@
 &title=患部で止まってすぐ溶ける～狂気の優曇華院[DX]
 &wholebpm=200
 &artist=ARM＋夕野ヨシミ(IOSYS)feat. miko
+&artistid=28
 &des=小鳥遊さん
 &shortid=10301
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

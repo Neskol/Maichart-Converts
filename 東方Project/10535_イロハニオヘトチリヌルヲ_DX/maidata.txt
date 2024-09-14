@@ -1,9 +1,11 @@
 &title=色は匂へど散りぬるを[DX]
 &wholebpm=138
 &artist=幽閉サテライト
+&artistid=425
 &des=はっぴー
 &shortid=10535
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX BUDDiES
 &ChartConverter=Neskol

@@ -1,9 +1,11 @@
 &title=ジングルベル[DX]
 &wholebpm=100
 &artist=SEGA Sound Unit [H.]
+&artistid=191
 &des=舞舞10年ズ ～ファイナル～
 &shortid=10070
 &genre=maimai
+&genreid=105
 &cabinet=DX
 &version=maimai DX FESTiVAL
 &ChartConverter=Neskol

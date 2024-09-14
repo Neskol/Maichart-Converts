@@ -1,9 +1,11 @@
 &title=Paradisus-Paradoxum[DX]
 &wholebpm=201
 &artist=MYTH & ROID「Re：ゼロから始める異世界生活」
+&artistid=143
 &des=シチミヘルツ
 &shortid=10615
 &genre=POPSアニメ
+&genreid=101
 &cabinet=DX
 &version=maimai DX PLUS
 &ChartConverter=Neskol

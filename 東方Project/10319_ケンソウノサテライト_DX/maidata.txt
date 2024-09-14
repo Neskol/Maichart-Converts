@@ -1,9 +1,11 @@
 &title=幻想のサテライト[DX]
 &wholebpm=230
 &artist=豚乙女
+&artistid=403
 &des=某S氏
 &shortid=10319
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol

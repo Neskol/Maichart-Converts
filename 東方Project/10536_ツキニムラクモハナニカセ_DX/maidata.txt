@@ -1,9 +1,11 @@
 &title=月に叢雲華に風[DX]
 &wholebpm=160
 &artist=幽閉サテライト
+&artistid=425
 &des=サファ太
 &shortid=10536
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX
 &ChartConverter=Neskol
@@ -23,7 +25,7 @@
 &lv_4=9
 &des_4=Jack
 
-&lv_5=12
+&lv_5=12+
 &des_5=サファ太
 
 &lv_6=

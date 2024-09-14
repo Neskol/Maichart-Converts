@@ -1,9 +1,11 @@
 &title=ナイト・オブ・ナイツ[DX]
 &wholebpm=180
 &artist=ビートまりお(COOL＆CREATE)
+&artistid=309
 &des=はっぴー
 &shortid=10204
 &genre=東方Project
+&genreid=103
 &cabinet=DX
 &version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol
