@@ -18,7 +18,8 @@
 > A: Neskol would not consider uploading to any other platforms that were too easy to get my resources blocked, but you are more than welcome to reupload - do cite Neskol if possible.
 
 - Q: I want background videos (BGA). Can you upload them?
-> A: [Mega Link](https://mega.nz/folder/cXxSDCqZ#wQ-VPHywFRX0M-YEUhKZfQ) by Neskol
+> A: [Mega Link](https://mega.nz/folder/cXxSDCqZ#wQ-VPHywFRX0M-YEUhKZfQ) by Neskol.
+> If you really need it on GitHub, open an issue.
 
 ### Disclamer
 - I do not own the copyright of any original files which the releases of this repo are used. The copyright of charts, music, video and cover pictures belongs to their original copyright holders, and any resource of this repo has provided is subjected to be deleted if a DCMA strike has taken. However, based on the principle of researching and learning, downloading files here is permitted if you agree to use resources provided here for researching only, and any commercial usage of this repo strictly prohibited.
