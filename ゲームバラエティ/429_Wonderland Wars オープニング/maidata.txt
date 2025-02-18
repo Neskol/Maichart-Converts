@@ -1,0 +1,41 @@
+&title=Wonderland Wars オープニング[SD]
+&wholebpm=70
+&artist=「童話」は、全て「戦記」だった 
+&artistid=406
+&des=-
+&shortid=429
+&genre=ゲームバラエティ
+&genreid=104
+&cabinet=SD
+&version=maimai PiNK
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.8.0
+&smsg=See https://github.com/Neskol/MaichartConverter for updates
+
+&lv_1=
+&des_1=
+
+&lv_2=
+&des_2=
+
+&lv_3=
+&des_3=-
+
+&lv_4=
+&des_4=-
+
+&lv_5=
+&des_5=-
+
+&lv_6=
+&des_6=-
+
+
+
+
+
+
+
+
+

@@ -10,7 +10,7 @@
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.1
+&ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -25,7 +25,7 @@
 &lv_4=9
 &des_4=華火職人
 
-&lv_5=11+
+&lv_5=12
 &des_5=小鳥遊さん
 
 &lv_6=

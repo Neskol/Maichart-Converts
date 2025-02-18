@@ -10,7 +10,7 @@
 &version=maimai MURASAKi
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.1
+&ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -25,7 +25,7 @@
 &lv_4=10
 &des_4=rioN
 
-&lv_5=11+
+&lv_5=12
 &des_5=はっぴー
 
 &lv_6=12+

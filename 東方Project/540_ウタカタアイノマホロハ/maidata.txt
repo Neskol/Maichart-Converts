@@ -1,6 +1,6 @@
 &title=泡沫、哀のまほろば[SD]
 &wholebpm=155
-&artist=幽閉サテライト
+&artist=幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)
 &artistid=425
 &des=すきやき奉行
 &shortid=540
@@ -10,7 +10,7 @@
 &version=maimai MiLK
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.1
+&ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=

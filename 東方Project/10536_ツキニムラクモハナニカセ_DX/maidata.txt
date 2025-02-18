@@ -1,6 +1,6 @@
 &title=月に叢雲華に風[DX]
 &wholebpm=160
-&artist=幽閉サテライト
+&artist=幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)
 &artistid=425
 &des=サファ太
 &shortid=10536
@@ -10,7 +10,7 @@
 &version=maimai DX
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.1
+&ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
