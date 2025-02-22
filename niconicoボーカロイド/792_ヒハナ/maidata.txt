@@ -10,7 +10,7 @@
 &version=maimai FiNALE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.1
+&ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -25,7 +25,7 @@
 &lv_4=11
 &des_4=玉子豆腐
 
-&lv_5=11+
+&lv_5=12
 &des_5=緑風 犬三郎
 
 &lv_6=13

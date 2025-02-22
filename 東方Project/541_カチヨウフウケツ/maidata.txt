@@ -1,6 +1,6 @@
 &title=華鳥風月[SD]
 &wholebpm=123
-&artist=幽閉サテライト
+&artist=幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)
 &artistid=425
 &des=rioN
 &shortid=541
@@ -10,7 +10,7 @@
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.7.1
+&ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
