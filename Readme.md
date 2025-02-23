@@ -6,13 +6,11 @@
 
 ### How to use?
 - Navigate to [Release](https://github.com/I21b/Maicharts-in-Zip/releases) section and download the latest release. Unpack and transfer them in a handy place so your chart player can find them.
-> Try [AstroDX](https://github.com/2394425147/astrodx):
-> `/storage/emulated/0/Android/data/com.Reflektone.AstroDX/files/levels/maimai/8_TRUELOVESONG/maidata.txt`
-> (before `v2.0.0 Beta 0`)
+> [AstroDX](https://github.com/2394425147/astrodx), [Majdata](https://github.com/LingFeng-bbben/MajdataView)
 
 ### FAQ
 - Q: When would you update charts?
-> After [release](https://github.com/Neskol/Maichart-Converts/releases).
+> After [this release](https://github.com/Neskol/Maichart-Converts/releases).
 
 - Q: Can you upload files to somewhere else?
 > A: Neskol would not consider uploading to any other platforms that were too easy to get my resources blocked, but you are more than welcome to reupload - do cite Neskol if possible.
