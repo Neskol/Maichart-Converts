@@ -18,7 +18,7 @@
 
 > After [this release](https://github.com/Neskol/Maichart-Converts/releases).
 
-[More](https://github.com/Neskol/Maichart-Converts#faq)
+- [More](https://github.com/Neskol/Maichart-Converts#faq)
 
 ### Disclamer
 
