@@ -1,4 +1,7 @@
 ## Maichart-Converts: A repo which stores Simai charts converted by `MaichartConverter`
+### Chart download site is up!
+* @lingdu2333 has set up a [Chart Download Site](astrodx.milkbot.cn) (available in Chinese only) where you can search and download charts by _Chart Name_ or _ID_. Thank you!
+
 ### What is this?
 - Most chart players for maimai chart player uses Simai chart packs but it could be hard to find for a comprehensive database for those charts
 - This repo provides a hub for those seeking for charts as a byproduct while developing [`MaichartConverter`](https://github.com/Neskol/MaichartConverter), which converts charts between different formats
