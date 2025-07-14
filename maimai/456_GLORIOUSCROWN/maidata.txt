@@ -2,7 +2,7 @@
 &wholebpm=225
 &artist=xi
 &artistid=232
-&des=合作だよ
+&des=チャン@DP皆伝 vs Jack
 &shortid=456
 &genre=maimai
 &genreid=105
@@ -16,17 +16,17 @@
 &lv_1=
 &des_1=
 
-&lv_2=7
+&lv_2=7.0
 &des_2=-
 
-&lv_3=10
+&lv_3=10.5
 &des_3=-
 
-&lv_4=13
+&lv_4=13.2
 &des_4=ぴちネコ
 
-&lv_5=14+
-&des_5=合作だよ
+&lv_5=14.8
+&des_5=チャン@DP皆伝 vs Jack
 
 &lv_6=
 &des_6=

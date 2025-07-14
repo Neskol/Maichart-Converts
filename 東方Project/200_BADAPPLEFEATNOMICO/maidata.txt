@@ -1,4 +1,4 @@
-&title=Bad Apple!! feat nomico[SD]
+&title=Bad Apple!! feat.nomico[SD]
 &wholebpm=138
 &artist=Masayoshi Minoshima
 &artistid=135
@@ -16,20 +16,20 @@
 &lv_1=
 &des_1=
 
-&lv_2=3
+&lv_2=3.0
 &des_2=-
 
-&lv_3=6
+&lv_3=6.8
 &des_3=-
 
-&lv_4=10+
+&lv_4=10.6
 &des_4=譜面-100号
 
-&lv_5=12
+&lv_5=12.5
 &des_5=mai-Star
 
-&lv_6=13
-&des_6=合作だよ
+&lv_6=13.3
+&des_6=Jack vs 某S氏
 
 
 &inote_2=

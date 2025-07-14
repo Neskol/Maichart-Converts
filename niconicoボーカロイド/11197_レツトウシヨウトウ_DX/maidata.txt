@@ -7,7 +7,7 @@
 &genre=niconicoボーカロイド
 &genreid=102
 &cabinet=DX
-&version=maimai DX FESTiVAL
+&version=maimai DX Splash
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
 &ChartConvertToolVersion=1.0.8.0
@@ -16,16 +16,16 @@
 &lv_1=
 &des_1=
 
-&lv_2=4
+&lv_2=4.0
 &des_2=
 
-&lv_3=6
+&lv_3=6.5
 &des_3=
 
-&lv_4=10
+&lv_4=10.0
 &des_4=華火職人
 
-&lv_5=13
+&lv_5=13.2
 &des_5=サファ太
 
 &lv_6=

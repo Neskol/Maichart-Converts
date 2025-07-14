@@ -11,7 +11,8 @@
 &ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
-&lv_7=12?
+&lv_7=12.0?
+&fixedoption=TrackSkip:Off
 
 &inote_7=
 (135){1},

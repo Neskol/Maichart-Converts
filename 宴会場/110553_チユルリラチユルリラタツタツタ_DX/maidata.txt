@@ -11,9 +11,9 @@
 &ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
-&lv_2=13?
+&lv_2=13.0?
 
-&lv_3=13?
+&lv_3=13.0?
 
 &inote_2=
 (220){1},

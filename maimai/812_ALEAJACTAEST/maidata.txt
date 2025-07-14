@@ -16,19 +16,19 @@
 &lv_1=
 &des_1=
 
-&lv_2=7
+&lv_2=7.0
 &des_2=-
 
-&lv_3=9+
+&lv_3=9.6
 &des_3=-
 
-&lv_4=12+
+&lv_4=12.9
 &des_4=サファ太
 
-&lv_5=14
+&lv_5=14.4
 &des_5=“Carpe diem” ＊ HAN∀BI
 
-&lv_6=14+
+&lv_6=14.8
 &des_6=小鳥遊さん fused with Phoenix
 
 

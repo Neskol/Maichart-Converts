@@ -2,7 +2,7 @@
 &wholebpm=150
 &artist=Jimmy Weckl
 &artistid=106
-&des=合作だよ
+&des=ニャインとはっぴー
 &shortid=238
 &genre=maimai
 &genreid=105
@@ -16,17 +16,17 @@
 &lv_1=
 &des_1=
 
-&lv_2=4
+&lv_2=4.0
 &des_2=-
 
-&lv_3=7+
+&lv_3=7.8
 &des_3=-
 
-&lv_4=12+
+&lv_4=12.9
 &des_4=譜面-100号
 
-&lv_5=13+
-&des_5=合作だよ
+&lv_5=13.8
+&des_5=ニャインとはっぴー
 
 &lv_6=
 &des_6=

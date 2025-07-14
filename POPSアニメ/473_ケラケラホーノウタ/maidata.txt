@@ -16,16 +16,16 @@
 &lv_1=
 &des_1=
 
-&lv_2=3
+&lv_2=3.0
 &des_2=-
 
-&lv_3=5
+&lv_3=5.8
 &des_3=-
 
-&lv_4=7
+&lv_4=7.4
 &des_4=Techno Kitchen
 
-&lv_5=9+
+&lv_5=9.9
 &des_5=はっぴー
 
 &lv_6=

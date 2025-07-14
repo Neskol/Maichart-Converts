@@ -2,7 +2,7 @@
 &wholebpm=160
 &artist=魂音泉
 &artistid=363
-&des=合作だよ
+&des=はっぴー vs Jack
 &shortid=766
 &genre=東方Project
 &genreid=103
@@ -16,17 +16,17 @@
 &lv_1=
 &des_1=
 
-&lv_2=5
+&lv_2=5.0
 &des_2=-
 
-&lv_3=8
+&lv_3=8.0
 &des_3=-
 
-&lv_4=11
+&lv_4=11.4
 &des_4=某S氏
 
-&lv_5=13+
-&des_5=合作だよ
+&lv_5=13.9
+&des_5=はっぴー vs Jack
 
 &lv_6=
 &des_6=

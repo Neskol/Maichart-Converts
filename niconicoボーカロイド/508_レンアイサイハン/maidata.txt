@@ -2,7 +2,7 @@
 &wholebpm=134
 &artist=40mP
 &artistid=16
-&des=合作だよ
+&des=しろいろとはっぴー
 &shortid=508
 &genre=niconicoボーカロイド
 &genreid=102
@@ -16,17 +16,17 @@
 &lv_1=
 &des_1=
 
-&lv_2=4
+&lv_2=4.0
 &des_2=-
 
-&lv_3=7
+&lv_3=7.1
 &des_3=-
 
-&lv_4=10
-&des_4=合作だよ
+&lv_4=10.0
+&des_4=畳返しとはっぴー
 
-&lv_5=11+
-&des_5=合作だよ
+&lv_5=11.8
+&des_5=しろいろとはっぴー
 
 &lv_6=
 &des_6=

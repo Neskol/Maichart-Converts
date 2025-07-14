@@ -7,7 +7,7 @@
 &genre=ゲームバラエティ
 &genreid=104
 &cabinet=DX
-&version=maimai DX FESTiVAL
+&version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
 &ChartConvertToolVersion=1.0.8.0
@@ -16,16 +16,16 @@
 &lv_1=
 &des_1=
 
-&lv_2=3
+&lv_2=3.0
 &des_2=
 
-&lv_3=7+
+&lv_3=7.8
 &des_3=
 
-&lv_4=11
+&lv_4=11.5
 &des_4=翠楼屋
 
-&lv_5=12+
+&lv_5=12.8
 &des_5=じゃこレモン
 
 &lv_6=

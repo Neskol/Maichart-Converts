@@ -1,7 +1,7 @@
 &title=フキゲンワルツ[SD]
 &wholebpm=210
-&artist=OSTERproject
-&artistid=447
+&artist=OSTER project
+&artistid=160
 &des=小鳥遊さん
 &shortid=807
 &genre=niconicoボーカロイド
@@ -16,16 +16,16 @@
 &lv_1=
 &des_1=
 
-&lv_2=5
+&lv_2=5.0
 &des_2=-
 
-&lv_3=7+
+&lv_3=7.8
 &des_3=-
 
-&lv_4=10
+&lv_4=10.4
 &des_4=玉子豆腐
 
-&lv_5=13
+&lv_5=13.2
 &des_5=小鳥遊さん
 
 &lv_6=
