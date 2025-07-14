@@ -16,19 +16,19 @@
 &lv_1=
 &des_1=
 
-&lv_2=7
+&lv_2=7.0
 &des_2=
 
-&lv_3=10
+&lv_3=10.5
 &des_3=
 
-&lv_4=13+
+&lv_4=13.8
 &des_4=Luxizhel
 
-&lv_5=14+
+&lv_5=14.7
 &des_5=maimai TEAM DX
 
-&lv_6=15
+&lv_6=15.0
 &des_6=BEYOND THE MEMORiES
 
 

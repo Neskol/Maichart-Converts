@@ -16,16 +16,16 @@
 &lv_1=
 &des_1=
 
-&lv_2=4
+&lv_2=4.0
 &des_2=-
 
-&lv_3=7
+&lv_3=7.4
 &des_3=-
 
-&lv_4=11
+&lv_4=11.5
 &des_4=mai-Star
 
-&lv_5=12+
+&lv_5=12.7
 &des_5=Techno Kitchen
 
 &lv_6=

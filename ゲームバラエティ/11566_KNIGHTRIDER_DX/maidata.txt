@@ -7,7 +7,7 @@
 &genre=ゲームバラエティ
 &genreid=104
 &cabinet=DX
-&version=maimai DX FESTiVAL
+&version=maimai DX FESTiVAL PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
 &ChartConvertToolVersion=1.0.8.0
@@ -16,16 +16,16 @@
 &lv_1=
 &des_1=
 
-&lv_2=5
+&lv_2=5.0
 &des_2=
 
-&lv_3=8
+&lv_3=8.5
 &des_3=
 
-&lv_4=11
+&lv_4=11.2
 &des_4=カマボコ君
 
-&lv_5=13+
+&lv_5=13.8
 &des_5=ロシェ@ペンギン
 
 &lv_6=

@@ -2,7 +2,7 @@
 &wholebpm=196
 &artist=石鹸屋
 &artistid=382
-&des=合作だよ
+&des=rioNとはっぴー
 &shortid=425
 &genre=東方Project
 &genreid=103
@@ -16,17 +16,17 @@
 &lv_1=
 &des_1=
 
-&lv_2=6
+&lv_2=6.0
 &des_2=-
 
-&lv_3=8
+&lv_3=8.3
 &des_3=-
 
-&lv_4=9+
+&lv_4=9.9
 &des_4=しろいろ
 
-&lv_5=13
-&des_5=合作だよ
+&lv_5=13.3
+&des_5=rioNとはっぴー
 
 &lv_6=
 &des_6=

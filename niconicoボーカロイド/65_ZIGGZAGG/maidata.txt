@@ -16,19 +16,19 @@
 &lv_1=
 &des_1=
 
-&lv_2=7
+&lv_2=7.0
 &des_2=-
 
-&lv_3=7+
+&lv_3=7.8
 &des_3=-
 
-&lv_4=9
+&lv_4=9.3
 &des_4=maimai TEAM
 
-&lv_5=11
+&lv_5=11.4
 &des_5=maimai TEAM
 
-&lv_6=12
+&lv_6=12.5
 &des_6=はっぴー
 
 

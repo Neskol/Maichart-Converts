@@ -7,7 +7,7 @@
 &genre=niconicoボーカロイド
 &genreid=102
 &cabinet=DX
-&version=maimai DX FESTiVAL PLUS
+&version=maimai DX FESTiVAL
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
 &ChartConvertToolVersion=1.0.8.0
@@ -16,16 +16,16 @@
 &lv_1=
 &des_1=
 
-&lv_2=1
+&lv_2=1.0
 &des_2=
 
-&lv_3=6
+&lv_3=6.2
 &des_3=
 
-&lv_4=9
+&lv_4=9.5
 &des_4=翠楼屋
 
-&lv_5=12
+&lv_5=12.4
 &des_5=はっぴー
 
 &lv_6=

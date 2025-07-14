@@ -16,16 +16,16 @@
 &lv_1=
 &des_1=
 
-&lv_2=7
+&lv_2=7.0
 &des_2=
 
-&lv_3=8+
+&lv_3=8.7
 &des_3=
 
-&lv_4=13+
+&lv_4=13.7
 &des_4=佑
 
-&lv_5=14+
+&lv_5=14.9
 &des_5=project raputa
 
 &lv_6=

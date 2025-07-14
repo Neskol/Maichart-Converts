@@ -2,7 +2,7 @@
 &wholebpm=185
 &artist=WAiKURO
 &artistid=229
-&des=合作だよ
+&des=ぴちネコ vs Jack
 &shortid=496
 &genre=maimai
 &genreid=105
@@ -16,19 +16,19 @@
 &lv_1=
 &des_1=
 
-&lv_2=7+
+&lv_2=7.7
 &des_2=-
 
-&lv_3=9+
+&lv_3=9.8
 &des_3=-
 
-&lv_4=13+
+&lv_4=13.6
 &des_4=はっぴー
 
-&lv_5=14+
-&des_5=合作だよ
+&lv_5=14.7
+&des_5=ぴちネコ vs Jack
 
-&lv_6=14
+&lv_6=14.5
 &des_6=はっぴー
 
 

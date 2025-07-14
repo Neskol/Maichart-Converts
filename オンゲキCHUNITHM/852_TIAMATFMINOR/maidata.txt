@@ -2,7 +2,7 @@
 &wholebpm=215
 &artist=Team Grimoire
 &artistid=471
-&des=合作だよ
+&des=小鳥遊さん vs LabiLabi
 &shortid=852
 &genre=オンゲキCHUNITHM
 &genreid=106
@@ -16,17 +16,17 @@
 &lv_1=
 &des_1=
 
-&lv_2=7
+&lv_2=7.0
 &des_2=-
 
-&lv_3=10
+&lv_3=10.3
 &des_3=-
 
-&lv_4=13
+&lv_4=13.1
 &des_4=Jack
 
-&lv_5=14+
-&des_5=合作だよ
+&lv_5=14.6
+&des_5=小鳥遊さん vs LabiLabi
 
 &lv_6=
 &des_6=

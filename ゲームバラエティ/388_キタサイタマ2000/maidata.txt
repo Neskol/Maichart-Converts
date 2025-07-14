@@ -2,7 +2,7 @@
 &wholebpm=222
 &artist=LindaAI-CUE(BNGI)「太鼓の達人」より
 &artistid=124
-&des=合作だよ
+&des=譜面-100号とはっぴー
 &shortid=388
 &genre=ゲームバラエティ
 &genreid=104
@@ -16,17 +16,17 @@
 &lv_1=
 &des_1=
 
-&lv_2=5
+&lv_2=5.0
 &des_2=-
 
-&lv_3=8+
+&lv_3=8.6
 &des_3=-
 
-&lv_4=13
+&lv_4=13.3
 &des_4=はっぴー
 
-&lv_5=14
-&des_5=合作だよ
+&lv_5=14.2
+&des_5=譜面-100号とはっぴー
 
 &lv_6=
 &des_6=
