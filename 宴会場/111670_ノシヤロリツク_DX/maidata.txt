@@ -5,10 +5,17 @@
 &shortid=111670
 &genre=宴会場
 &cabinet=DX
+<<<<<<< Updated upstream
 &version=maimai
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
 &ChartConvertToolVersion=1.0.8.0
+=======
+&version=maimai DX CiRCLE
+&ChartConverter=Neskol
+&ChartConvertTool=MaichartConverter
+&ChartConvertToolVersion=1.0.9.0
+>>>>>>> Stashed changes
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_2=13.0?

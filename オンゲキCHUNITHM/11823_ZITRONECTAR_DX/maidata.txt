@@ -10,7 +10,11 @@
 &version=maimai DX PRiSM PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
+<<<<<<< Updated upstream
 &ChartConvertToolVersion=1.0.8.0
+=======
+&ChartConvertToolVersion=1.0.9.0
+>>>>>>> Stashed changes
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -25,7 +29,11 @@
 &lv_4=12.0
 &des_4=ロシェ@ペンギン
 
+<<<<<<< Updated upstream
 &lv_5=14.3
+=======
+&lv_5=14.4
+>>>>>>> Stashed changes
 &des_5=サファ太
 
 &lv_6=
