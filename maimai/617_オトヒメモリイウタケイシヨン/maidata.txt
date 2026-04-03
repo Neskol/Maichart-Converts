@@ -1,7 +1,7 @@
 &title=オトヒメモリー☆ウタゲーション[SD]
 &wholebpm=140
-&artist=Junky feat. 乙姫(CV:浅川悠)
-&artistid=1134
+&artist=Junky
+&artistid=110
 &des=ぴちネコ
 &shortid=617
 &genre=maimai
@@ -10,7 +10,7 @@
 &version=maimai MURASAKi PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.9.0
+&ChartConvertToolVersion=1.0.8.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
