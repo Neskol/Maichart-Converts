@@ -10,7 +10,7 @@
 &version=maimai DX PRiSM PLUS
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.8.0
+&ChartConvertToolVersion=1.0.9.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
@@ -25,7 +25,7 @@
 &lv_4=11.9
 &des_4=Luxizhel
 
-&lv_5=14.2
+&lv_5=14.3
 &des_5=サファ太
 
 &lv_6=

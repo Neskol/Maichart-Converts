@@ -7,10 +7,10 @@
 &genre=ゲームバラエティ
 &genreid=104
 &cabinet=DX
-&version=maimai
+&version=maimai DX CiRCLE
 &ChartConverter=Neskol
 &ChartConvertTool=MaichartConverter
-&ChartConvertToolVersion=1.0.8.0
+&ChartConvertToolVersion=1.0.9.0
 &smsg=See https://github.com/Neskol/MaichartConverter for updates
 
 &lv_1=
